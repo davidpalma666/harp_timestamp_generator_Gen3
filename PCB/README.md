@@ -1,4 +1,4 @@
-# Harp Expander PCB
+# Harp Timestamp Generator Gen1
 
 ## Licensing
 

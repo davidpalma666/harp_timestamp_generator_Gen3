@@ -1,7 +1,8 @@
-# Harp Timestamp Generator Gen1
+# Harp Timestamp Generator Gen3
 
-This device is able to generate the necessary timestamps to synchronize the harp family of devices.
-Doesn't require external power, connecting to a CLOCK IN port is sufficient.
+This device generates programable timestamps to up to 6 harp devices.
+
+Includes an internal battery to increase reliability for long term experiments.
 
 # Licensing
 
