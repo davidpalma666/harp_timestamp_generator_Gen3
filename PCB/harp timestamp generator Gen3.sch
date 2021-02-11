@@ -71,70 +71,70 @@
 <layer number="89" name="SimProbes" color="9" fill="1" visible="no" active="yes"/>
 <layer number="90" name="Modules" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
-<layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="92" name="Busses" color="1" fill="1" visible="no" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
 <layer number="94" name="Symbols" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="95" name="Names" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="97" name="Info" color="7" fill="1" visible="no" active="yes"/>
+<layer number="98" name="Guide" color="6" fill="1" visible="no" active="yes"/>
 <layer number="99" name="SpiceOrder" color="5" fill="1" visible="no" active="yes"/>
 <layer number="100" name="Muster" color="7" fill="1" visible="no" active="no"/>
-<layer number="101" name="Patch_Top" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="102" name="Vscore" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="103" name="fp3" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="104" name="Name" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="105" name="Beschreib" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="106" name="BGA-Top" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="107" name="BD-Top" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="108" name="fp8" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="109" name="fp9" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="110" name="fp0" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="111" name="LPC17xx" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="112" name="tSilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="113" name="IDFDebug" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="114" name="Badge_Outline" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="115" name="ReferenceISLANDS" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="116" name="Patch_BOT" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="101" name="Patch_Top" color="7" fill="1" visible="no" active="yes"/>
+<layer number="102" name="Vscore" color="7" fill="1" visible="no" active="yes"/>
+<layer number="103" name="fp3" color="7" fill="1" visible="no" active="yes"/>
+<layer number="104" name="Name" color="7" fill="1" visible="no" active="yes"/>
+<layer number="105" name="Beschreib" color="7" fill="1" visible="no" active="yes"/>
+<layer number="106" name="BGA-Top" color="7" fill="1" visible="no" active="yes"/>
+<layer number="107" name="BD-Top" color="7" fill="1" visible="no" active="yes"/>
+<layer number="108" name="fp8" color="7" fill="1" visible="no" active="yes"/>
+<layer number="109" name="fp9" color="7" fill="1" visible="no" active="yes"/>
+<layer number="110" name="fp0" color="7" fill="1" visible="no" active="yes"/>
+<layer number="111" name="LPC17xx" color="7" fill="1" visible="no" active="yes"/>
+<layer number="112" name="tSilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="113" name="IDFDebug" color="7" fill="1" visible="no" active="yes"/>
+<layer number="114" name="Badge_Outline" color="7" fill="1" visible="no" active="yes"/>
+<layer number="115" name="ReferenceISLANDS" color="7" fill="1" visible="no" active="yes"/>
+<layer number="116" name="Patch_BOT" color="7" fill="1" visible="no" active="yes"/>
 <layer number="118" name="Rect_Pads" color="7" fill="1" visible="no" active="no"/>
-<layer number="121" name="_tsilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="122" name="_bsilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="123" name="tTestmark" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="124" name="bTestmark" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="125" name="_tNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="126" name="_bNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="127" name="_tValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="128" name="_bValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="129" name="Mask" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="131" name="tAdjust" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="132" name="bAdjust" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="144" name="Drill_legend" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="150" name="Notes" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="151" name="HeatSink" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="152" name="_bDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="121" name="_tsilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="122" name="_bsilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="123" name="tTestmark" color="7" fill="1" visible="no" active="yes"/>
+<layer number="124" name="bTestmark" color="7" fill="1" visible="no" active="yes"/>
+<layer number="125" name="_tNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="126" name="_bNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="127" name="_tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="128" name="_bValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="129" name="Mask" color="7" fill="1" visible="no" active="yes"/>
+<layer number="131" name="tAdjust" color="7" fill="1" visible="no" active="yes"/>
+<layer number="132" name="bAdjust" color="7" fill="1" visible="no" active="yes"/>
+<layer number="144" name="Drill_legend" color="7" fill="1" visible="no" active="yes"/>
+<layer number="150" name="Notes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="151" name="HeatSink" color="7" fill="1" visible="no" active="yes"/>
+<layer number="152" name="_bDocu" color="7" fill="1" visible="no" active="yes"/>
 <layer number="153" name="FabDoc1" color="6" fill="1" visible="no" active="no"/>
 <layer number="154" name="FabDoc2" color="2" fill="1" visible="no" active="no"/>
 <layer number="155" name="FabDoc3" color="7" fill="15" visible="no" active="no"/>
-<layer number="180" name="vCut" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="181" name="Dim" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="199" name="Contour" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="200" name="200bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="180" name="vCut" color="7" fill="1" visible="no" active="yes"/>
+<layer number="181" name="Dim" color="7" fill="1" visible="no" active="yes"/>
+<layer number="199" name="Contour" color="7" fill="1" visible="no" active="yes"/>
+<layer number="200" name="200bmp" color="7" fill="1" visible="no" active="yes"/>
 <layer number="201" name="201bmp" color="2" fill="1" visible="no" active="no"/>
 <layer number="202" name="202bmp" color="3" fill="1" visible="no" active="no"/>
-<layer number="203" name="203bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="204" name="204bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="205" name="205bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="206" name="206bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="207" name="207bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="208" name="208bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="209" name="209bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="210" name="210bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="211" name="211bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="212" name="212bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="213" name="213bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="214" name="214bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="215" name="215bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="216" name="216bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="203" name="203bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="204" name="204bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="205" name="205bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="206" name="206bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="207" name="207bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="208" name="208bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="209" name="209bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="210" name="210bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="211" name="211bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="212" name="212bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="213" name="213bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="214" name="214bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="215" name="215bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="216" name="216bmp" color="7" fill="1" visible="no" active="yes"/>
 <layer number="217" name="217bmp" color="18" fill="1" visible="no" active="no"/>
 <layer number="218" name="218bmp" color="19" fill="1" visible="no" active="no"/>
 <layer number="219" name="219bmp" color="20" fill="1" visible="no" active="no"/>
@@ -143,21 +143,21 @@
 <layer number="222" name="222bmp" color="23" fill="1" visible="no" active="no"/>
 <layer number="223" name="223bmp" color="24" fill="1" visible="no" active="no"/>
 <layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
-<layer number="225" name="225bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="226" name="226bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="227" name="227bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="228" name="228bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="229" name="229bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="230" name="230bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="225" name="225bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="226" name="226bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="227" name="227bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="228" name="228bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="229" name="229bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="230" name="230bmp" color="7" fill="1" visible="no" active="yes"/>
 <layer number="231" name="Eagle3D_PG1" color="7" fill="1" visible="no" active="no"/>
 <layer number="232" name="Eagle3D_PG2" color="7" fill="1" visible="no" active="no"/>
 <layer number="233" name="Eagle3D_PG3" color="7" fill="1" visible="no" active="no"/>
-<layer number="248" name="Housing" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="249" name="Edge" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="248" name="Housing" color="7" fill="1" visible="no" active="yes"/>
+<layer number="249" name="Edge" color="7" fill="1" visible="no" active="yes"/>
 <layer number="250" name="Descript" color="7" fill="1" visible="no" active="no"/>
 <layer number="251" name="SMDround" color="7" fill="1" visible="no" active="no"/>
-<layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="254" name="cooling" color="7" fill="1" visible="no" active="yes"/>
+<layer number="255" name="routoute" color="7" fill="1" visible="no" active="yes"/>
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
 <libraries>
@@ -15138,167 +15138,282 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </classes>
 <parts>
 <part name="LED3" library="harp timestamp generator" deviceset="LED_2X" device="_VERTICAL" value="569-0112-100">
+<attribute name="DIGKEYPN" value="350-1782-ND"/>
 <attribute name="MPN" value="5690-111-100F"/>
 </part>
 <part name="LED2" library="harp timestamp generator" deviceset="LED_2X" device="_VERTICAL" value="569-0112-100">
+<attribute name="DIGKEYPN" value="350-1782-ND"/>
 <attribute name="MPN" value="5690-111-100F"/>
 </part>
-<part name="GND143" library="supply1" deviceset="GND" device=""/>
-<part name="GND4" library="supply1" deviceset="GND" device=""/>
+<part name="GND143" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="GND4" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="C25" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
 <part name="C26" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
 <part name="LED1" library="harp timestamp generator" deviceset="LED_2X" device="_VERTICAL" value="569-0112-100">
+<attribute name="DIGKEYPN" value="350-1782-ND"/>
 <attribute name="MPN" value="5690-111-100F"/>
 </part>
 <part name="C7" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
 <part name="C5" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
 <part name="C8" library="rcl" deviceset="CPOL-EU" device="A/3216-18W" value="4.7uF">
-<attribute name="MPN" value="TAJA475K016UNJ"/>
+<attribute name="DIGKEYPN" value="478-11183-1-ND"/>
+<attribute name="MPN" value="TAJA475K010TNJ"/>
 </part>
 <part name="C9" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
 <part name="C3" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
 <part name="C4" library="rcl" deviceset="C-EU" device="C0402" value="47pF">
-<attribute name="MPN" value="04025A470JAT2A"/>
+<attribute name="DIGKEYPN" value="478-1171-1-ND"/>
+<attribute name="MPN" value="06035A470JAT2A"/>
 </part>
 <part name="C6" library="rcl" deviceset="C-EU" device="C0402" value="47pF">
-<attribute name="MPN" value="04025A470JAT2A"/>
+<attribute name="DIGKEYPN" value="478-1171-1-ND"/>
+<attribute name="MPN" value="06035A470JAT2A"/>
 </part>
 <part name="L1" library="rcl" deviceset="R-EU_" device="R0805" value="40R@100MHz">
+<attribute name="DIGKEYPN" value="240-2389-1-ND"/>
 <attribute name="MPN" value="MI0805K400R-10"/>
 </part>
 <part name="C2" library="rcl" deviceset="C-EU" device="C0402" value="4.7nF">
-<attribute name="MPN" value="885012205084"/>
+<attribute name="DIGKEYPN" value="587-2237-1-ND"/>
+<attribute name="MPN" value="UMK105B7472KV-F"/>
 </part>
 <part name="IC2" library="harp timestamp generator" deviceset="USBLC6-2" device="" value="USBLC6-2SC6">
+<attribute name="DIGKEYPN" value="497-5235-1-ND"/>
 <attribute name="MPN" value="USBLC6-2SC6"/>
 </part>
 <part name="USB" library="harp timestamp generator" deviceset="USB_MINI_B" device="" value="mini USB">
-<attribute name="MPN" value="UX60-MB-5S8 "/>
+<attribute name="DIGKEYPN" value="H2960TR-ND"/>
+<attribute name="MPN" value="UX60-MB-5S8"/>
 </part>
 <part name="R1" library="rcl" deviceset="R-EU_" device="R0402" value="1M">
-<attribute name="MPN" value="CRCW04021M00FKED"/>
+<attribute name="DIGKEYPN" value="541-3965-1-ND"/>
+<attribute name="MPN" value="CRCW04021M00FKEDC"/>
 </part>
-<part name="GND33" library="supply1" deviceset="GND" device=""/>
-<part name="GND34" library="supply1" deviceset="GND" device=""/>
-<part name="GND35" library="supply1" deviceset="GND" device=""/>
-<part name="GND36" library="supply1" deviceset="GND" device=""/>
-<part name="GND37" library="supply1" deviceset="GND" device=""/>
-<part name="GND38" library="supply1" deviceset="GND" device=""/>
-<part name="GND39" library="supply1" deviceset="GND" device=""/>
-<part name="GND40" library="supply1" deviceset="GND" device=""/>
-<part name="GND42" library="supply1" deviceset="GND" device=""/>
-<part name="GND43" library="supply1" deviceset="GND" device=""/>
-<part name="GND44" library="supply1" deviceset="GND" device=""/>
-<part name="GND1" library="supply1" deviceset="GND" device=""/>
-<part name="GND2" library="supply1" deviceset="GND" device=""/>
-<part name="P+1" library="supply1" deviceset="+5V" device=""/>
+<part name="GND33" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="GND34" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="GND35" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="GND36" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="GND37" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="GND38" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="GND39" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="GND40" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="GND42" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="GND43" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="GND44" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="GND1" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="GND2" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="P+1" library="supply1" deviceset="+5V" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
 <part name="T1" library="transistor" deviceset="BC850" device="">
+<attribute name="DIGKEYPN" value="1727-4862-1-ND"/>
 <attribute name="MPN" value="BC850C,215"/>
 </part>
 <part name="R21" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
+<attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
 <attribute name="MPN" value="CRCW04021K00FKED"/>
 </part>
 <part name="R33" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
+<attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
 <attribute name="MPN" value="RC0402FR-07330RL "/>
 </part>
-<part name="GND9" library="supply1" deviceset="GND" device=""/>
+<part name="GND9" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="T2" library="transistor" deviceset="BC850" device="">
+<attribute name="DIGKEYPN" value="1727-4862-1-ND"/>
 <attribute name="MPN" value="BC850C,215"/>
 </part>
 <part name="R27" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
+<attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
 <attribute name="MPN" value="CRCW04021K00FKED"/>
 </part>
 <part name="R40" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
+<attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
 <attribute name="MPN" value="RC0402FR-07330RL "/>
 </part>
-<part name="GND14" library="supply1" deviceset="GND" device=""/>
+<part name="GND14" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="T3" library="transistor" deviceset="BC850" device="">
+<attribute name="DIGKEYPN" value="1727-4862-1-ND"/>
 <attribute name="MPN" value="BC850C,215"/>
 </part>
 <part name="R22" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
+<attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
 <attribute name="MPN" value="CRCW04021K00FKED"/>
 </part>
 <part name="R34" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
+<attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
 <attribute name="MPN" value="RC0402FR-07330RL "/>
 </part>
-<part name="GND48" library="supply1" deviceset="GND" device=""/>
+<part name="GND48" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="T4" library="transistor" deviceset="BC850" device="">
+<attribute name="DIGKEYPN" value="1727-4862-1-ND"/>
 <attribute name="MPN" value="BC850C,215"/>
 </part>
 <part name="R28" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
+<attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
 <attribute name="MPN" value="CRCW04021K00FKED"/>
 </part>
 <part name="R41" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
+<attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
 <attribute name="MPN" value="RC0402FR-07330RL "/>
 </part>
-<part name="GND49" library="supply1" deviceset="GND" device=""/>
+<part name="GND49" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="T5" library="transistor" deviceset="BC850" device="">
+<attribute name="DIGKEYPN" value="1727-4862-1-ND"/>
 <attribute name="MPN" value="BC850C,215"/>
 </part>
 <part name="R23" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
+<attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
 <attribute name="MPN" value="CRCW04021K00FKED"/>
 </part>
 <part name="R35" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
+<attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
 <attribute name="MPN" value="RC0402FR-07330RL "/>
 </part>
-<part name="GND50" library="supply1" deviceset="GND" device=""/>
+<part name="GND50" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="T6" library="transistor" deviceset="BC850" device="">
+<attribute name="DIGKEYPN" value="1727-4862-1-ND"/>
 <attribute name="MPN" value="BC850C,215"/>
 </part>
 <part name="R29" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
+<attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
 <attribute name="MPN" value="CRCW04021K00FKED"/>
 </part>
 <part name="R42" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
+<attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
 <attribute name="MPN" value="RC0402FR-07330RL "/>
 </part>
-<part name="GND51" library="supply1" deviceset="GND" device=""/>
-<part name="GND5" library="supply1" deviceset="GND" device=""/>
+<part name="GND51" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="GND5" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="R3" library="rcl" deviceset="R-EU_" device="R0402" value="10k">
-<attribute name="MPN" value="CRCW040210K0FKED"/>
+<attribute name="DIGKEYPN" value="541-3959-1-ND"/>
+<attribute name="MPN" value="CRCW040210K0FKEDC"/>
 </part>
 <part name="R2" library="rcl" deviceset="R-EU_" device="R0402" value="10R">
+<attribute name="DIGKEYPN" value="541-10.0YCT-ND"/>
 <attribute name="MPN" value="CRCW040210R0FKEDHP"/>
 </part>
-<part name="GND55" library="supply1" deviceset="GND" device=""/>
+<part name="GND55" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="C24" library="rcl" deviceset="C-EU" device="C0603" value="4.7uF">
-<attribute name="MPN" value="C1608X6S1C475K080AC"/>
+<attribute name="DIGKEYPN" value="541-10.0YCT-ND"/>
+<attribute name="MPN" value="CRCW040210R0FKEDHP"/>
 </part>
 <part name="IC11" library="harp timestamp generator" deviceset="TLV700XX" device="" value="TLV70033DDCR">
+<attribute name="DIGKEYPN" value="296-27937-6-ND"/>
 <attribute name="MPN" value="TLV70033DDCR"/>
 </part>
-<part name="GND56" library="supply1" deviceset="GND" device=""/>
-<part name="C23" library="rcl" deviceset="C-EU" device="C0603" value="4.7uF">
-<attribute name="MPN" value="C1608X6S1C475K080AC"/>
+<part name="GND56" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
 </part>
-<part name="GND57" library="supply1" deviceset="GND" device=""/>
-<part name="P+3" library="supply1" deviceset="+5V" device=""/>
+<part name="C23" library="rcl" deviceset="C-EU" device="C0603" value="4.7uF">
+<attribute name="DIGKEYPN" value="541-10.0YCT-ND"/>
+<attribute name="MPN" value="CRCW040210R0FKEDHP"/>
+</part>
+<part name="GND57" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="P+3" library="supply1" deviceset="+5V" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="GND86" library="supply1" deviceset="GND" device=""/>
 <part name="C11" library="rcl" deviceset="C-EU" device="C0603" value="4.7uF">
-<attribute name="MPN" value="C1608X6S1C475K080AC"/>
+<attribute name="DIGKEYPN" value="541-10.0YCT-ND"/>
+<attribute name="MPN" value="CRCW040210R0FKEDHP"/>
 </part>
 <part name="IC5" library="harp timestamp generator" deviceset="TLV700XX" device="" value="TLV70033DDCR">
+<attribute name="DIGKEYPN" value="296-27937-6-ND"/>
 <attribute name="MPN" value="TLV70033DDCR"/>
 </part>
-<part name="GND87" library="supply1" deviceset="GND" device=""/>
+<part name="GND87" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
 <part name="C10" library="rcl" deviceset="C-EU" device="C0603" value="4.7uF">
-<attribute name="MPN" value="C1608X6S1C475K080AC"/>
+<attribute name="DIGKEYPN" value="541-10.0YCT-ND"/>
+<attribute name="MPN" value="CRCW040210R0FKEDHP"/>
 </part>
 <part name="GND88" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+40" library="supply1" deviceset="+5V" device=""/>
 <part name="C12" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
 <part name="GND89" library="supply1" deviceset="GND" device=""/>
 <part name="FRAME3" library="frames" deviceset="A3L-LOC" device=""/>
@@ -15306,75 +15421,131 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <part name="FRAME6" library="frames" deviceset="A3L-LOC" device=""/>
 <part name="FRAME7" library="frames" deviceset="A3L-LOC" device=""/>
 <part name="LED5" library="harp timestamp generator" deviceset="LED_2X" device="_VERTICAL" value="569-0112-100">
+<attribute name="DIGKEYPN" value="350-1782-ND"/>
 <attribute name="MPN" value="5690-111-100F"/>
 </part>
 <part name="LED4" library="harp timestamp generator" deviceset="LED_2X" device="_VERTICAL" value="569-0112-100">
+<attribute name="DIGKEYPN" value="350-1782-ND"/>
 <attribute name="MPN" value="5690-111-100F"/>
 </part>
 <part name="T7" library="transistor" deviceset="BC850" device="">
+<attribute name="DIGKEYPN" value="1727-4862-1-ND"/>
 <attribute name="MPN" value="BC850C,215"/>
 </part>
 <part name="R24" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
+<attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
 <attribute name="MPN" value="CRCW04021K00FKED"/>
 </part>
 <part name="R36" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
+<attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
 <attribute name="MPN" value="RC0402FR-07330RL "/>
 </part>
-<part name="GND47" library="supply1" deviceset="GND" device=""/>
+<part name="GND47" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="T8" library="transistor" deviceset="BC850" device="">
+<attribute name="DIGKEYPN" value="1727-4862-1-ND"/>
 <attribute name="MPN" value="BC850C,215"/>
 </part>
 <part name="R30" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
+<attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
 <attribute name="MPN" value="CRCW04021K00FKED"/>
 </part>
 <part name="R44" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
+<attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
 <attribute name="MPN" value="RC0402FR-07330RL "/>
 </part>
-<part name="GND52" library="supply1" deviceset="GND" device=""/>
+<part name="GND52" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="T9" library="transistor" deviceset="BC850" device="">
+<attribute name="DIGKEYPN" value="1727-4862-1-ND"/>
 <attribute name="MPN" value="BC850C,215"/>
 </part>
 <part name="R25" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
+<attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
 <attribute name="MPN" value="CRCW04021K00FKED"/>
 </part>
 <part name="R37" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
+<attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
 <attribute name="MPN" value="RC0402FR-07330RL "/>
 </part>
-<part name="GND79" library="supply1" deviceset="GND" device=""/>
+<part name="GND79" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="T10" library="transistor" deviceset="BC850" device="">
+<attribute name="DIGKEYPN" value="1727-4862-1-ND"/>
 <attribute name="MPN" value="BC850C,215"/>
 </part>
 <part name="R31" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
+<attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
 <attribute name="MPN" value="CRCW04021K00FKED"/>
 </part>
 <part name="R45" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
+<attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
 <attribute name="MPN" value="RC0402FR-07330RL "/>
 </part>
-<part name="GND102" library="supply1" deviceset="GND" device=""/>
-<part name="C30" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<part name="GND102" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
 </part>
-<part name="GND32" library="supply1" deviceset="GND" device=""/>
+<part name="C30" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
+</part>
+<part name="GND32" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="P+42" library="supply1" deviceset="+5V" device=""/>
 <part name="+3V1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V9" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V14" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V26" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V42" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="R18" library="rcl" deviceset="R-EU_" device="R0402" value="10k">
-<attribute name="MPN" value="CRCW040210K0FKED"/>
+<part name="+3V2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
 </part>
-<part name="+3V43" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
+<part name="+3V5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V9" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V14" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V26" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V42" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="R18" library="rcl" deviceset="R-EU_" device="R0402" value="10k">
+<attribute name="DIGKEYPN" value="541-3959-1-ND"/>
+<attribute name="MPN" value="CRCW040210K0FKEDC"/>
+</part>
+<part name="+3V43" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
 <part name="GND_TP1" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TP" device="PAD1-13" package3d_urn="urn:adsk.eagle:package:27946/1">
 <attribute name="MPN" value="n.a."/>
 </part>
@@ -15384,21 +15555,33 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <part name="GND30" library="supply1" deviceset="GND" device=""/>
 <part name="GND58" library="supply1" deviceset="GND" device=""/>
 <part name="SV1" library="harp timestamp generator" deviceset="ML10L" device="" value="I/O Header">
+<attribute name="DIGKEYPN" value="S9177-ND"/>
 <attribute name="MPN" value="SBH11-PBPC-D05-RA-BK"/>
 </part>
 <part name="IC3" library="harp timestamp generator" deviceset="FT232R" device="L">
+<attribute name="DIGKEYPN" value="768-1007-1-ND"/>
 <attribute name="MPN" value="FT232RL-REEL"/>
 </part>
 <part name="IC10" library="74xx-little-de" deviceset="74*1G125" device="DBV" technology="AHC" value="SN74LVC1G125DBVT">
+<attribute name="DIGKEYPN" value="296-26595-1-ND"/>
 <attribute name="MPN" value="SN74LVC1G125DBVT"/>
 </part>
-<part name="GND96" library="supply1" deviceset="GND" device=""/>
-<part name="GND94" library="supply1" deviceset="GND" device=""/>
-<part name="+3V35" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="R16" library="rcl" deviceset="R-EU_" device="R0402" value="10k">
-<attribute name="MPN" value="CRCW040210K0FKED"/>
+<part name="GND96" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
 </part>
-<part name="GND46" library="supply1" deviceset="GND" device=""/>
+<part name="GND94" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V35" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="R16" library="rcl" deviceset="R-EU_" device="R0402" value="10k">
+<attribute name="DIGKEYPN" value="541-3959-1-ND"/>
+<attribute name="MPN" value="CRCW040210K0FKEDC"/>
+</part>
+<part name="GND46" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="+3V3_TP" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TP" device="PAD1-13" package3d_urn="urn:adsk.eagle:package:27946/1">
 <attribute name="MPN" value="n.a."/>
 </part>
@@ -15408,239 +15591,461 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </part>
 <part name="P+5" library="supply1" deviceset="+5V" device=""/>
 <part name="IC18" library="74xx-little-de" deviceset="74*1G125" device="DBV" technology="AHC" value="SN74LVC1G125DBVT">
+<attribute name="DIGKEYPN" value="296-26595-1-ND"/>
 <attribute name="MPN" value="SN74LVC1G125DBVT"/>
 </part>
 <part name="IC19" library="74xx-little-de" deviceset="74*1G125" device="DBV" technology="AHC" value="SN74LVC1G125DBVT">
+<attribute name="DIGKEYPN" value="296-26595-1-ND"/>
 <attribute name="MPN" value="SN74LVC1G125DBVT"/>
 </part>
 <part name="C35" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
-<part name="GND63" library="supply1" deviceset="GND" device=""/>
-<part name="+3V20" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
+<part name="GND63" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V20" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="C36" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
-<part name="GND66" library="supply1" deviceset="GND" device=""/>
-<part name="+3V22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V25" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="+3V27" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="GND67" library="supply1" deviceset="GND" device=""/>
-<part name="GND69" library="supply1" deviceset="GND" device=""/>
+<part name="GND66" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V25" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V27" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="GND67" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="GND69" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="R54" library="rcl" deviceset="R-EU_" device="R0402" value="10k">
+<attribute name="DIGKEYPN" value="541-3959-1-ND"/>
 <attribute name="MPN" value="CRCW040210K0FKED"/>
 </part>
-<part name="GND70" library="supply1" deviceset="GND" device=""/>
+<part name="GND70" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="R55" library="rcl" deviceset="R-EU_" device="R0402" value="10k">
+<attribute name="DIGKEYPN" value="541-3959-1-ND"/>
 <attribute name="MPN" value="CRCW040210K0FKED"/>
 </part>
-<part name="+3V29" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="GND3" library="supply1" deviceset="GND" device=""/>
+<part name="+3V29" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="GND3" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="CLKOUT1" library="harp timestamp generator" deviceset="STEREO_JACK" device="" value="CLCK_JACK">
+<attribute name="DIGKEYPN" value="SC1489-1-ND"/>
 <attribute name="MPN" value="35RASMT2BHNTRX"/>
 </part>
 <part name="C1" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
 <part name="C13" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
-<part name="GND8" library="supply1" deviceset="GND" device=""/>
-<part name="+3V15" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="GND10" library="supply1" deviceset="GND" device=""/>
+<part name="GND8" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V15" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="GND10" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="CLKOUT2" library="harp timestamp generator" deviceset="STEREO_JACK" device="" value="CLCK_JACK">
+<attribute name="DIGKEYPN" value="SC1489-1-ND"/>
 <attribute name="MPN" value="35RASMT2BHNTRX"/>
 </part>
 <part name="C14" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
 <part name="C15" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
-<part name="GND12" library="supply1" deviceset="GND" device=""/>
-<part name="+3V16" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="GND13" library="supply1" deviceset="GND" device=""/>
+<part name="GND12" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V16" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="GND13" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="CLKOUT3" library="harp timestamp generator" deviceset="STEREO_JACK" device="" value="CLCK_JACK">
+<attribute name="DIGKEYPN" value="SC1489-1-ND"/>
 <attribute name="MPN" value="35RASMT2BHNTRX"/>
 </part>
 <part name="C16" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
 <part name="C17" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
-<part name="GND15" library="supply1" deviceset="GND" device=""/>
-<part name="+3V17" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="GND16" library="supply1" deviceset="GND" device=""/>
+<part name="GND15" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V17" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="GND16" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="CLKOUT4" library="harp timestamp generator" deviceset="STEREO_JACK" device="" value="CLCK_JACK">
+<attribute name="DIGKEYPN" value="SC1489-1-ND"/>
 <attribute name="MPN" value="35RASMT2BHNTRX"/>
 </part>
 <part name="C18" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
 <part name="C19" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
-<part name="GND17" library="supply1" deviceset="GND" device=""/>
-<part name="+3V18" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="GND18" library="supply1" deviceset="GND" device=""/>
+<part name="GND17" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V18" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="GND18" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="CLKOUT5" library="harp timestamp generator" deviceset="STEREO_JACK" device="" value="CLCK_JACK">
+<attribute name="DIGKEYPN" value="SC1489-1-ND"/>
 <attribute name="MPN" value="35RASMT2BHNTRX"/>
 </part>
 <part name="C20" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
 <part name="C21" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
-<part name="GND19" library="supply1" deviceset="GND" device=""/>
-<part name="+3V21" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="GND20" library="supply1" deviceset="GND" device=""/>
-<part name="IC6" library="harp timestamp generator" deviceset="AT-XMEGA-XXA4-AU" device="" value="ATXMEGAxxxA4U-AU"/>
-<part name="C22" library="rcl" deviceset="C-EU" device="C0402" value="100nF"/>
-<part name="C27" library="rcl" deviceset="C-EU" device="C0402" value="100nF"/>
-<part name="C28" library="rcl" deviceset="C-EU" device="C0402" value="100nF"/>
-<part name="C29" library="rcl" deviceset="C-EU" device="C0402" value="330nF"/>
-<part name="OSC1" library="harp timestamp generator" deviceset="OSCILLATOR" device="" value="OSCILLATOR"/>
-<part name="GND59" library="supply1" deviceset="GND" device=""/>
-<part name="C32" library="rcl" deviceset="C-EU" device="C0402" value="100nF"/>
-<part name="GND60" library="supply1" deviceset="GND" device=""/>
+<part name="GND19" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="+3V21" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="GND20" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="IC6" library="harp timestamp generator" deviceset="AT-XMEGA-XXA4-AU" device="" value="ATXMEGA16A4U-AU">
+<attribute name="DIGKEYPN" value="ATXMEGA16A4U-AU-ND"/>
+<attribute name="MPN" value="ATXMEGA16A4U-AU"/>
+</part>
+<part name="C22" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
+</part>
+<part name="C27" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
+</part>
+<part name="C28" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
+</part>
+<part name="C29" library="rcl" deviceset="C-EU" device="C0402" value="330nF">
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
+</part>
+<part name="OSC1" library="harp timestamp generator" deviceset="OSCILLATOR" device="" value="OSCILLATOR">
+<attribute name="DIGKEYPN" value="1908-1044-1-ND"/>
+<attribute name="MPN" value="O 32,0-JT32C-A-K-3,3-LF"/>
+</part>
+<part name="GND59" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="C32" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
+</part>
+<part name="GND60" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
 <part name="GND24" library="supply1" deviceset="GND" device=""/>
 <part name="GND27" library="supply1" deviceset="GND" device=""/>
 <part name="GND25" library="supply1" deviceset="GND" device=""/>
 <part name="GND31" library="supply1" deviceset="GND" device=""/>
 <part name="GND65" library="supply1" deviceset="GND" device=""/>
-<part name="PDI" library="con-lstb" deviceset="MA03-2" device=""/>
+<part name="PDI" library="con-lstb" deviceset="MA03-2" device="" value="2x3_header">
+<attribute name="DIGKEYPN" value="609-3210-ND"/>
+<attribute name="MPN" value="67996-206HLF"/>
+</part>
 <part name="CLKIN" library="harp timestamp generator" deviceset="STEREO_JACK" device="" value="CLCK_JACK">
+<attribute name="DIGKEYPN" value="SC1489-1-ND"/>
 <attribute name="MPN" value="35RASMT2BHNTRX"/>
 </part>
-<part name="Q2" library="transistor-npn" deviceset="BC817*" device="" value="BC817-40W"/>
-<part name="Q1" library="harp timestamp generator" deviceset="MOSFET-PCHANNEL-ROHM" device="" value="RTU002P02T106"/>
-<part name="GND29" library="supply1" deviceset="GND" device=""/>
+<part name="Q2" library="transistor-npn" deviceset="BC817*" device="" value="BC817-40W">
+<attribute name="DIGKEYPN" value="1727-6185-1-ND"/>
+<attribute name="MPN" value="BC817-40W,135"/>
+</part>
+<part name="Q1" library="harp timestamp generator" deviceset="MOSFET-PCHANNEL-ROHM" device="" value="RTU002P02T106">
+<attribute name="DIGKEYPN" value="RTU002P02T106CT-ND"/>
+<attribute name="MPN" value="RTU002P02T106"/>
+</part>
+<part name="GND29" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
 <part name="R6" library="rcl" deviceset="R-EU_" device="R0402" value="100k">
-<attribute name="MPN" value="CRCW040210K0FKED"/>
+<attribute name="DIGKEYPN" value="311-100KHRCT-ND"/>
+<attribute name="MPN" value="RC0603FR-07100KL"/>
 </part>
 <part name="R7" library="rcl" deviceset="R-EU_" device="R0402" value="10k">
-<attribute name="MPN" value="CRCW040210K0FKED"/>
+<attribute name="DIGKEYPN" value="541-3959-1-ND"/>
+<attribute name="MPN" value="CRCW040210K0FKEDC"/>
 </part>
 <part name="BAT_TP" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TP" device="PAD1-13" package3d_urn="urn:adsk.eagle:package:27946/1">
 <attribute name="MPN" value="n.a."/>
 </part>
 <part name="R8" library="rcl" deviceset="R-EU_" device="R0402" value="0">
-<attribute name="MPN" value="CRCW040210K0FKED"/>
+<attribute name="DIGKEYPN" value="311-0.0HRCT-ND"/>
+<attribute name="MPN" value="RC0603FR-070RL"/>
 </part>
-<part name="GND41" library="supply1" deviceset="GND" device=""/>
+<part name="GND41" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
 <part name="R4" library="rcl" deviceset="R-EU_" device="R0402" value="51k 0.1%">
-<attribute name="MPN" value="CRCW040210K0FKED"/>
+<attribute name="DIGKEYPN" value="P51KDCCT-ND"/>
+<attribute name="MPN" value="ERA-2AEB513X"/>
 </part>
-<part name="R5" library="rcl" deviceset="R-EU_" device="R0402" value="15K 0.1%">
-<attribute name="MPN" value="CRCW040210K0FKED"/>
+<part name="R5" library="rcl" deviceset="R-EU_" device="R0402" value="15K 0.1% =&gt; 14k7">
+<attribute name="DIGKEYPN" value="YAG4174CT-ND"/>
+<attribute name="MPN" value="RT0402BRD0714K7L"/>
 </part>
-<part name="BUTTON" library="harp timestamp generator" deviceset="SPDT" device="_CFPA" value="CFPA"/>
-<part name="C62" library="rcl" deviceset="C-EU" device="C0402" value="100nF"/>
+<part name="BUTTON" library="harp timestamp generator" deviceset="SPDT" device="_CFPA" value="CFPA">
+<attribute name="DIGKEYPN" value="563-1246-1-ND"/>
+<attribute name="MPN" value="CFPA-1FB4-A2T"/>
+</part>
+<part name="C62" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
+</part>
 <part name="GND45" library="supply1" deviceset="GND" device=""/>
 <part name="GND53" library="supply1" deviceset="GND" device=""/>
-<part name="R9" library="rcl" deviceset="R-EU_" device="R0402" value="10k"/>
-<part name="R48" library="rcl" deviceset="R-EU_" device="R0402" value="100k"/>
-<part name="IC9" library="74xx-little-de" deviceset="74*1G126" device="DCK" technology="AHC" value="M74VHC1GT126DF1G"/>
+<part name="R9" library="rcl" deviceset="R-EU_" device="R0402" value="10k">
+<attribute name="DIGKEYPN" value="541-3959-1-ND"/>
+<attribute name="MPN" value="CRCW040210K0FKEDC"/>
+</part>
+<part name="R48" library="rcl" deviceset="R-EU_" device="R0402" value="100k">
+<attribute name="DIGKEYPN" value="311-100KHRCT-ND"/>
+<attribute name="MPN" value="RC0603FR-07100KL"/>
+</part>
+<part name="IC9" library="74xx-little-de" deviceset="74*1G126" device="DCK" technology="AHC" value="M74VHC1GT126DF1G">
+<attribute name="DIGKEYPN" value="M74VHC1GT126DF1GOSCT-ND"/>
+<attribute name="MPN" value="M74VHC1GT126DF1G"/>
+</part>
 <part name="R10" library="rcl" deviceset="R-EU_" device="R0603" value="100R">
-<attribute name="MPN" value="CRCW0603100RFKEAHP"/>
+<attribute name="DIGKEYPN" value="311-100DCT-ND"/>
+<attribute name="MPN" value="RT0603DRD07100RL"/>
 </part>
 <part name="C31" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
-<part name="GND6" library="supply1" deviceset="GND" device=""/>
-<part name="GND7" library="supply1" deviceset="GND" device=""/>
-<part name="P+2" library="supply1" deviceset="+5V" device=""/>
-<part name="P+4" library="supply1" deviceset="+5V" device=""/>
-<part name="IC8" library="74xx-little-de" deviceset="74*1G126" device="DCK" technology="AHC" value="M74VHC1GT126DF1G"/>
+<part name="GND6" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="GND7" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="P+2" library="supply1" deviceset="+5V" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="P+4" library="supply1" deviceset="+5V" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="IC8" library="74xx-little-de" deviceset="74*1G126" device="DCK" technology="AHC" value="M74VHC1GT126DF1G">
+<attribute name="DIGKEYPN" value="M74VHC1GT126DF1GOSCT-ND"/>
+<attribute name="MPN" value="M74VHC1GT126DF1G"/>
+</part>
 <part name="R12" library="rcl" deviceset="R-EU_" device="R0603" value="100R">
-<attribute name="MPN" value="CRCW0603100RFKEAHP"/>
+<attribute name="DIGKEYPN" value="311-100DCT-ND"/>
+<attribute name="MPN" value="RT0603DRD07100RL"/>
 </part>
 <part name="C38" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
-<part name="GND62" library="supply1" deviceset="GND" device=""/>
-<part name="GND64" library="supply1" deviceset="GND" device=""/>
-<part name="P+6" library="supply1" deviceset="+5V" device=""/>
-<part name="P+7" library="supply1" deviceset="+5V" device=""/>
-<part name="IC7" library="74xx-little-de" deviceset="74*1G126" device="DCK" technology="AHC" value="M74VHC1GT126DF1G"/>
+<part name="GND62" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="GND64" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="P+6" library="supply1" deviceset="+5V" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="P+7" library="supply1" deviceset="+5V" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="IC7" library="74xx-little-de" deviceset="74*1G126" device="DCK" technology="AHC" value="M74VHC1GT126DF1G">
+<attribute name="DIGKEYPN" value="M74VHC1GT126DF1GOSCT-ND"/>
+<attribute name="MPN" value="M74VHC1GT126DF1G"/>
+</part>
 <part name="R11" library="rcl" deviceset="R-EU_" device="R0603" value="100R">
-<attribute name="MPN" value="CRCW0603100RFKEAHP"/>
+<attribute name="DIGKEYPN" value="311-100DCT-ND"/>
+<attribute name="MPN" value="RT0603DRD07100RL"/>
 </part>
 <part name="C37" library="rcl" deviceset="C-EU" device="C0402" value="100nF">
-<attribute name="MPN" value="MC0402B104K160CT"/>
+<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
+<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
-<part name="GND22" library="supply1" deviceset="GND" device=""/>
-<part name="GND23" library="supply1" deviceset="GND" device=""/>
-<part name="P+8" library="supply1" deviceset="+5V" device=""/>
-<part name="P+9" library="supply1" deviceset="+5V" device=""/>
-<part name="X1" library="harp timestamp generator" deviceset="JST-XH-02-PIN" device="-ROUND-PAD" value="B2B-PH-K-S(LF)(SN)"/>
-<part name="GND54" library="SparkFun" deviceset="GND" device=""/>
+<part name="GND22" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="GND23" library="supply1" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="P+8" library="supply1" deviceset="+5V" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="P+9" library="supply1" deviceset="+5V" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
+<part name="X1" library="harp timestamp generator" deviceset="JST-XH-02-PIN" device="-ROUND-PAD" value="B2B-PH-K-S(LF)(SN)">
+<attribute name="DIGKEYPN" value="455-1704-ND"/>
+<attribute name="MPN" value="B2B-PH-K-S(LF)(SN)"/>
+</part>
+<part name="GND54" library="SparkFun" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
 <part name="IC1" library="harp timestamp generator" deviceset="MCP73831T-2ATI/OT" device="">
-<attribute name="MPN" value="MCP73831T-2ATI/OT"/>
+<attribute name="DIGKEYPN" value="MCP73831T-2ATI/OTCT-ND"/>
 </part>
-<part name="GND26" library="SparkFun" deviceset="GND" device=""/>
+<part name="GND26" library="SparkFun" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
 <part name="R13" library="rcl" deviceset="R-EU_" device="R0402" value="4k5">
-<attribute name="MPN" value="22k !!!"/>
+<attribute name="DIGKEYPN" value="YAG1444CT-ND"/>
+<attribute name="MPN" value="RT0402BRD074K53L"/>
 </part>
-<part name="IC4" library="harp timestamp generator" deviceset="ICL7673CBAZA-T" device=""/>
-<part name="GND68" library="SparkFun" deviceset="GND" device=""/>
-<part name="Q3" library="transistor-npn" library_urn="urn:adsk.eagle:library:398" deviceset="BC817*" device="SMD" package3d_urn="urn:adsk.eagle:package:28748/2" technology="-40LT1"/>
-<part name="R14" library="rcl" deviceset="R-EU_" device="R0402" value="10k ??">
-<attribute name="MPN" value="???"/>
+<part name="IC4" library="harp timestamp generator" deviceset="ICL7673CBAZA-T" device="">
+<attribute name="DIGKEYPN" value="ICL7673CBAZA-TCT-ND"/>
+<attribute name="MPN" value="ICL7673CBAZA-T"/>
+</part>
+<part name="GND68" library="SparkFun" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="Q3" library="transistor-npn" library_urn="urn:adsk.eagle:library:398" deviceset="BC817*" device="SMD" package3d_urn="urn:adsk.eagle:package:28748/2" technology="-40LT1">
+<attribute name="DIGKEYPN" value="SBC817-40LT1GOSCT-ND"/>
+<attribute name="MPN" value="SBC817-40LT1G"/>
+</part>
+<part name="R14" library="rcl" deviceset="R-EU_" device="R0402" value="10k">
+<attribute name="DIGKEYPN" value="541-3959-1-ND"/>
+<attribute name="MPN" value="CRCW040210K0FKEDC"/>
 </part>
 <part name="R15" library="rcl" deviceset="R-EU_" device="R2512" value="25R">
-<attribute name="MPN" value="???"/>
+<attribute name="DIGKEYPN" value="541-2662-1-ND"/>
+<attribute name="MPN" value="RCP2512W25R0GEB"/>
 </part>
 <part name="CLKOUT0" library="harp timestamp generator" deviceset="STEREO_JACK" device="" value="CLCK_JACK">
+<attribute name="DIGKEYPN" value="SC1489-1-ND"/>
 <attribute name="MPN" value="35RASMT2BHNTRX"/>
 </part>
 <part name="IC12" library="harp timestamp generator" deviceset="SI8621BC-B-IS" device="">
+<attribute name="DIGKEYPN" value="336-2064-5-ND"/>
 <attribute name="MPN" value="Si8621BC-B-IS"/>
 </part>
 <part name="IC13" library="harp timestamp generator" deviceset="SI8621BC-B-IS" device="">
+<attribute name="DIGKEYPN" value="336-2064-5-ND"/>
 <attribute name="MPN" value="Si8621BC-B-IS"/>
 </part>
 <part name="IC14" library="harp timestamp generator" deviceset="SI8621BC-B-IS" device="">
+<attribute name="DIGKEYPN" value="336-2064-5-ND"/>
 <attribute name="MPN" value="Si8621BC-B-IS"/>
 </part>
 <part name="IC15" library="harp timestamp generator" deviceset="SI8621BC-B-IS" device="">
+<attribute name="DIGKEYPN" value="336-2064-5-ND"/>
 <attribute name="MPN" value="Si8621BC-B-IS"/>
 </part>
 <part name="IC16" library="harp timestamp generator" deviceset="SI8621BC-B-IS" device="">
+<attribute name="DIGKEYPN" value="336-2064-5-ND"/>
 <attribute name="MPN" value="Si8621BC-B-IS"/>
 </part>
 <part name="IC17" library="harp timestamp generator" deviceset="SI8621BC-B-IS" device="">
+<attribute name="DIGKEYPN" value="336-2064-5-ND"/>
 <attribute name="MPN" value="Si8621BC-B-IS"/>
 </part>
-<part name="GND28" library="SparkFun" deviceset="GND" device=""/>
+<part name="GND28" library="SparkFun" deviceset="GND" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
 <part name="R17" library="rcl" deviceset="R-EU_" device="R0402" value="4k5">
-<attribute name="MPN" value="22k !!!"/>
+<attribute name="DIGKEYPN" value="YAG1444CT-ND"/>
+<attribute name="MPN" value="RT0402BRD074K53L"/>
 </part>
 <part name="R19" library="rcl" deviceset="R-EU_" device="R0402" value="4k5">
-<attribute name="MPN" value="22k !!!"/>
+<attribute name="DIGKEYPN" value="YAG1444CT-ND"/>
+<attribute name="MPN" value="RT0402BRD074K53L"/>
 </part>
-<part name="Q5" library="harp timestamp generator" deviceset="DMP2035U-7" device="" value="DMP2035U-7"/>
-<part name="Q4" library="harp timestamp generator" deviceset="DMG1012UW" device=""/>
-<part name="F1" library="harp timestamp generator" deviceset="BLM15H" device="F0603" value="10MHz ??"/>
+<part name="Q5" library="harp timestamp generator" deviceset="DMP2035U-7" device="" value="DMP2035U-7">
+<attribute name="DIGKEYPN" value="DMP2035U-7DICT-ND"/>
+</part>
+<part name="Q4" library="harp timestamp generator" deviceset="DMG1012UW" device="" value="DMG1012UW">
+<attribute name="DIGKEYPN" value="DMG1012UW-7DICT-ND"/>
+<attribute name="MPN" value="DMG1012UW-7"/>
+</part>
+<part name="F1" library="harp timestamp generator" deviceset="BLM15H" device="F0603" value="330 Ohms @ 100MHz">
+<attribute name="DIGKEYPN" value="490-3997-1-ND"/>
+<attribute name="MPN" value="BLM18SG331TN1D"/>
+</part>
 <part name="VDD1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device="" value="+3V3_u"/>
 <part name="VDD2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device="" value="+3V3_u"/>
 <part name="VDD3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device="" value="+3V3_u"/>
 <part name="+3V3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="VDD5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VDD" device="" value="+3V3_u"/>
-<part name="C33" library="rcl" deviceset="C-EU" device="C0402" value="4.7n">
-<attribute name="MPN" value="??"/>
+<part name="C33" library="rcl" deviceset="C-EU" device="C0402" value="10n">
+<attribute name="DIGKEYPN" value="1276-1028-1-ND"/>
+<attribute name="MPN" value="CL05B103KB5NNNC"/>
 </part>
 <part name="GND61" library="supply1" deviceset="GND" device=""/>
 <part name="C34" library="rcl" deviceset="C-EU" device="C0402" value="10n">
-<attribute name="MPN" value="??"/>
+<attribute name="DIGKEYPN" value="1276-1028-1-ND"/>
+<attribute name="MPN" value="CL05B103KB5NNNC"/>
 </part>
 <part name="GND71" library="supply1" deviceset="GND" device=""/>
-<part name="P+10" library="supply1" deviceset="+5V" device=""/>
-<part name="P+11" library="supply1" deviceset="+5V" device=""/>
-<part name="P+12" library="supply1" deviceset="+5V" device=""/>
+<part name="P+10" library="supply1" deviceset="+5V" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="P+11" library="supply1" deviceset="+5V" device="">
+<attribute name="DIGKEYPN" value=""/>
+<attribute name="MPN" value=""/>
+</part>
+<part name="P+12" library="supply1" deviceset="+5V" device="">
+<attribute name="DIGKEYPN" value=""/>
+</part>
 </parts>
 <sheets>
 <sheet>
@@ -15677,296 +16082,398 @@ At around 200mA</text>
 <attribute name="NAME" x="610.616" y="114.808" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="612.775" y="114.808" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="607.06" y="119.38" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="607.06" y="119.38" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED3" gate="2" x="607.06" y="167.64" smashed="yes">
 <attribute name="NAME" x="610.616" y="163.068" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="612.775" y="163.068" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="607.06" y="167.64" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="607.06" y="167.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED2" gate="2" x="571.5" y="167.64" smashed="yes">
 <attribute name="NAME" x="575.056" y="163.068" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="577.215" y="163.068" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="571.5" y="167.64" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="571.5" y="167.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND143" gate="1" x="210.82" y="203.2" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="213.36" y="200.66" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="210.82" y="203.2" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND4" gate="1" x="152.4" y="147.32" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="154.94" y="144.78" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="152.4" y="147.32" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C25" gate="G$1" x="142.24" y="170.18" smashed="yes" rot="MR90">
 <attribute name="NAME" x="142.621" y="171.704" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="137.541" y="171.704" size="1.778" layer="96" rot="MR90"/>
 <attribute name="MPN" x="142.24" y="170.18" size="1.778" layer="96" rot="MR90" display="off"/>
+<attribute name="DIGKEYPN" x="142.24" y="170.18" size="1.778" layer="96" rot="MR90" display="off"/>
 </instance>
 <instance part="C26" gate="G$1" x="210.82" y="162.56" smashed="yes" rot="MR0">
 <attribute name="NAME" x="209.296" y="162.941" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="209.296" y="157.861" size="1.778" layer="96" rot="MR0"/>
 <attribute name="MPN" x="210.82" y="162.56" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="210.82" y="162.56" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="LED1" gate="2" x="535.94" y="167.64" smashed="yes">
 <attribute name="NAME" x="539.496" y="163.068" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="541.655" y="163.068" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="535.94" y="167.64" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="535.94" y="167.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C7" gate="G$1" x="144.78" y="370.84" smashed="yes" rot="R270">
 <attribute name="NAME" x="145.161" y="369.316" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="140.081" y="369.316" size="1.778" layer="96" rot="R270"/>
 <attribute name="MPN" x="144.78" y="370.84" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MPN" x="144.78" y="370.84" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="DIGKEYPN" x="144.78" y="370.84" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
 <instance part="C5" gate="G$1" x="137.16" y="391.16" smashed="yes" rot="MR0">
 <attribute name="NAME" x="135.636" y="391.541" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="135.636" y="386.461" size="1.778" layer="96" rot="MR0"/>
 <attribute name="MPN" x="137.16" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="137.16" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="137.16" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="137.16" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C8" gate="G$1" x="147.32" y="391.16" smashed="yes" rot="MR0">
 <attribute name="NAME" x="146.177" y="391.6426" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="146.177" y="386.5626" size="1.778" layer="96" rot="MR0"/>
 <attribute name="MPN" x="147.32" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="147.32" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="147.32" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="147.32" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C9" gate="G$1" x="157.48" y="391.16" smashed="yes" rot="MR0">
 <attribute name="NAME" x="155.956" y="391.541" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="155.956" y="386.461" size="1.778" layer="96" rot="MR0"/>
 <attribute name="MPN" x="157.48" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="157.48" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="157.48" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="157.48" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C3" gate="G$1" x="104.14" y="332.74" smashed="yes">
 <attribute name="NAME" x="105.664" y="333.121" size="1.778" layer="95"/>
 <attribute name="VALUE" x="105.664" y="328.041" size="1.778" layer="96"/>
 <attribute name="MPN" x="104.14" y="332.74" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="104.14" y="332.74" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="104.14" y="332.74" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C4" gate="G$1" x="129.54" y="332.74" smashed="yes">
 <attribute name="NAME" x="131.064" y="333.121" size="1.778" layer="95"/>
 <attribute name="VALUE" x="131.064" y="328.041" size="1.778" layer="96"/>
 <attribute name="MPN" x="129.54" y="332.74" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="129.54" y="332.74" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="129.54" y="332.74" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C6" gate="G$1" x="139.7" y="332.74" smashed="yes">
 <attribute name="NAME" x="141.224" y="333.121" size="1.778" layer="95"/>
 <attribute name="VALUE" x="141.224" y="328.041" size="1.778" layer="96"/>
 <attribute name="MPN" x="139.7" y="332.74" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="139.7" y="332.74" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="139.7" y="332.74" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="L1" gate="G$1" x="111.76" y="350.52" smashed="yes" rot="R180">
 <attribute name="NAME" x="115.57" y="349.0214" size="1.778" layer="95" rot="R180"/>
 <attribute name="MPN" x="111.76" y="350.52" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="MPN" x="111.76" y="350.52" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="DIGKEYPN" x="111.76" y="350.52" size="1.778" layer="96" rot="R180" display="off"/>
 </instance>
 <instance part="C2" gate="G$1" x="44.45" y="332.74" smashed="yes" rot="MR0">
 <attribute name="NAME" x="42.926" y="333.121" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="42.926" y="328.041" size="1.778" layer="96" rot="MR0"/>
 <attribute name="MPN" x="44.45" y="332.74" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="44.45" y="332.74" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="44.45" y="332.74" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="IC2" gate="G$1" x="81.28" y="358.14" smashed="yes" rot="MR180">
 <attribute name="NAME" x="71.12" y="349.25" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="71.12" y="363.22" size="1.778" layer="96" rot="MR180"/>
 <attribute name="MPN" x="81.28" y="358.14" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="MPN" x="81.28" y="358.14" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="81.28" y="358.14" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="USB" gate="G$1" x="48.26" y="358.14" smashed="yes">
 <attribute name="NAME" x="44.45" y="370.84" size="1.778" layer="95"/>
 <attribute name="VALUE" x="44.45" y="368.3" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="48.26" y="358.14" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="48.26" y="358.14" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="48.26" y="358.14" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R1" gate="G$1" x="57.15" y="332.74" smashed="yes" rot="R270">
 <attribute name="NAME" x="58.6486" y="336.55" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="53.848" y="336.55" size="1.778" layer="96" rot="R270"/>
 <attribute name="MPN" x="57.15" y="332.74" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MPN" x="57.15" y="332.74" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="DIGKEYPN" x="57.15" y="332.74" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
 <instance part="GND33" gate="1" x="134.62" y="368.3" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="137.16" y="365.76" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="134.62" y="368.3" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="134.62" y="368.3" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND34" gate="1" x="160.02" y="322.58" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="162.56" y="320.04" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="160.02" y="322.58" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="160.02" y="322.58" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND35" gate="1" x="195.58" y="322.58" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="198.12" y="320.04" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="195.58" y="322.58" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="195.58" y="322.58" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND36" gate="1" x="44.45" y="322.58" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="46.99" y="320.04" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="44.45" y="322.58" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="44.45" y="322.58" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND37" gate="1" x="63.5" y="347.98" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="66.04" y="345.44" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="63.5" y="347.98" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="63.5" y="347.98" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND38" gate="1" x="104.14" y="322.58" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="106.68" y="320.04" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="104.14" y="322.58" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="104.14" y="322.58" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND39" gate="1" x="129.54" y="322.58" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="132.08" y="320.04" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="129.54" y="322.58" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="129.54" y="322.58" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND40" gate="1" x="139.7" y="322.58" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="142.24" y="320.04" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="139.7" y="322.58" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="139.7" y="322.58" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND42" gate="1" x="137.16" y="381" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="139.7" y="378.46" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="137.16" y="381" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="137.16" y="381" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="137.16" y="381" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND43" gate="1" x="147.32" y="381" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="149.86" y="378.46" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="147.32" y="381" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="147.32" y="381" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="147.32" y="381" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND44" gate="1" x="157.48" y="381" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="160.02" y="378.46" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="157.48" y="381" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="157.48" y="381" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="157.48" y="381" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND1" gate="1" x="57.15" y="322.58" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="59.69" y="320.04" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="57.15" y="322.58" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="57.15" y="322.58" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND2" gate="1" x="63.5" y="360.68" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="66.04" y="358.14" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="63.5" y="360.68" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="63.5" y="360.68" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="P+1" gate="1" x="287.02" y="492.76" smashed="yes">
 <attribute name="VALUE" x="287.02" y="495.3" size="1.778" layer="96" rot="R180"/>
+<attribute name="MPN" x="287.02" y="492.76" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="287.02" y="492.76" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="T1" gate="G$1" x="533.4" y="147.32" smashed="yes">
 <attribute name="NAME" x="523.24" y="154.94" size="1.778" layer="95"/>
 <attribute name="VALUE" x="523.24" y="152.4" size="1.778" layer="96"/>
 <attribute name="MPN" x="533.4" y="147.32" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="533.4" y="147.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R21" gate="G$1" x="525.78" y="147.32" smashed="yes" rot="MR180">
 <attribute name="NAME" x="521.97" y="145.8214" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="521.97" y="150.622" size="1.778" layer="96" rot="MR180"/>
 <attribute name="MPN" x="525.78" y="147.32" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="525.78" y="147.32" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="R33" gate="G$1" x="535.94" y="157.48" smashed="yes" rot="MR270">
 <attribute name="NAME" x="534.4414" y="161.29" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="539.242" y="161.29" size="1.778" layer="96" rot="MR270"/>
 <attribute name="MPN" x="535.94" y="157.48" size="1.778" layer="96" rot="MR270" display="off"/>
+<attribute name="DIGKEYPN" x="535.94" y="157.48" size="1.778" layer="96" rot="MR270" display="off"/>
 </instance>
 <instance part="GND9" gate="1" x="535.94" y="137.16" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="538.48" y="134.62" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="535.94" y="137.16" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="T2" gate="G$1" x="533.4" y="99.06" smashed="yes">
 <attribute name="NAME" x="523.24" y="106.68" size="1.778" layer="95"/>
 <attribute name="VALUE" x="523.24" y="104.14" size="1.778" layer="96"/>
 <attribute name="MPN" x="533.4" y="99.06" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="533.4" y="99.06" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R27" gate="G$1" x="525.78" y="99.06" smashed="yes" rot="MR180">
 <attribute name="NAME" x="521.97" y="97.5614" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="521.97" y="102.362" size="1.778" layer="96" rot="MR180"/>
 <attribute name="MPN" x="525.78" y="99.06" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="525.78" y="99.06" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="R40" gate="G$1" x="535.94" y="109.22" smashed="yes" rot="MR270">
 <attribute name="NAME" x="534.4414" y="113.03" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="539.242" y="113.03" size="1.778" layer="96" rot="MR270"/>
 <attribute name="MPN" x="535.94" y="109.22" size="1.778" layer="96" rot="MR270" display="off"/>
+<attribute name="DIGKEYPN" x="535.94" y="109.22" size="1.778" layer="96" rot="MR270" display="off"/>
 </instance>
 <instance part="GND14" gate="1" x="535.94" y="88.9" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="538.48" y="86.36" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="535.94" y="88.9" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="T3" gate="G$1" x="568.96" y="147.32" smashed="yes">
 <attribute name="NAME" x="558.8" y="154.94" size="1.778" layer="95"/>
 <attribute name="VALUE" x="558.8" y="152.4" size="1.778" layer="96"/>
 <attribute name="MPN" x="568.96" y="147.32" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="568.96" y="147.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R22" gate="G$1" x="561.34" y="147.32" smashed="yes" rot="MR180">
 <attribute name="NAME" x="557.53" y="145.8214" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="557.53" y="150.622" size="1.778" layer="96" rot="MR180"/>
 <attribute name="MPN" x="561.34" y="147.32" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="561.34" y="147.32" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="R34" gate="G$1" x="571.5" y="157.48" smashed="yes" rot="MR270">
 <attribute name="NAME" x="570.0014" y="161.29" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="574.802" y="161.29" size="1.778" layer="96" rot="MR270"/>
 <attribute name="MPN" x="571.5" y="157.48" size="1.778" layer="96" rot="MR270" display="off"/>
+<attribute name="DIGKEYPN" x="571.5" y="157.48" size="1.778" layer="96" rot="MR270" display="off"/>
 </instance>
 <instance part="GND48" gate="1" x="571.5" y="137.16" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="574.04" y="134.62" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="571.5" y="137.16" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="T4" gate="G$1" x="568.96" y="99.06" smashed="yes">
 <attribute name="NAME" x="558.8" y="106.68" size="1.778" layer="95"/>
 <attribute name="VALUE" x="558.8" y="104.14" size="1.778" layer="96"/>
 <attribute name="MPN" x="568.96" y="99.06" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="568.96" y="99.06" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R28" gate="G$1" x="561.34" y="99.06" smashed="yes" rot="MR180">
 <attribute name="NAME" x="557.53" y="97.5614" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="557.53" y="102.362" size="1.778" layer="96" rot="MR180"/>
 <attribute name="MPN" x="561.34" y="99.06" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="561.34" y="99.06" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="R41" gate="G$1" x="571.5" y="109.22" smashed="yes" rot="MR270">
 <attribute name="NAME" x="570.0014" y="113.03" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="574.802" y="113.03" size="1.778" layer="96" rot="MR270"/>
 <attribute name="MPN" x="571.5" y="109.22" size="1.778" layer="96" rot="MR270" display="off"/>
+<attribute name="DIGKEYPN" x="571.5" y="109.22" size="1.778" layer="96" rot="MR270" display="off"/>
 </instance>
 <instance part="GND49" gate="1" x="571.5" y="88.9" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="574.04" y="86.36" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="571.5" y="88.9" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="T5" gate="G$1" x="604.52" y="147.32" smashed="yes">
 <attribute name="NAME" x="594.36" y="154.94" size="1.778" layer="95"/>
 <attribute name="VALUE" x="594.36" y="152.4" size="1.778" layer="96"/>
 <attribute name="MPN" x="604.52" y="147.32" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="604.52" y="147.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R23" gate="G$1" x="596.9" y="147.32" smashed="yes" rot="MR180">
 <attribute name="NAME" x="593.09" y="145.8214" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="593.09" y="150.622" size="1.778" layer="96" rot="MR180"/>
 <attribute name="MPN" x="596.9" y="147.32" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="596.9" y="147.32" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="R35" gate="G$1" x="607.06" y="157.48" smashed="yes" rot="MR270">
 <attribute name="NAME" x="605.5614" y="161.29" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="610.362" y="161.29" size="1.778" layer="96" rot="MR270"/>
 <attribute name="MPN" x="607.06" y="157.48" size="1.778" layer="96" rot="MR270" display="off"/>
+<attribute name="DIGKEYPN" x="607.06" y="157.48" size="1.778" layer="96" rot="MR270" display="off"/>
 </instance>
 <instance part="GND50" gate="1" x="607.06" y="137.16" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="609.6" y="134.62" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="607.06" y="137.16" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="T6" gate="G$1" x="604.52" y="99.06" smashed="yes">
 <attribute name="NAME" x="594.36" y="106.68" size="1.778" layer="95"/>
 <attribute name="VALUE" x="594.36" y="104.14" size="1.778" layer="96"/>
 <attribute name="MPN" x="604.52" y="99.06" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="604.52" y="99.06" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R29" gate="G$1" x="596.9" y="99.06" smashed="yes" rot="MR180">
 <attribute name="NAME" x="593.09" y="97.5614" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="593.09" y="102.362" size="1.778" layer="96" rot="MR180"/>
 <attribute name="MPN" x="596.9" y="99.06" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="596.9" y="99.06" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="R42" gate="G$1" x="607.06" y="109.22" smashed="yes" rot="MR270">
 <attribute name="NAME" x="605.5614" y="113.03" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="610.362" y="113.03" size="1.778" layer="96" rot="MR270"/>
 <attribute name="MPN" x="607.06" y="109.22" size="1.778" layer="96" rot="MR270" display="off"/>
+<attribute name="DIGKEYPN" x="607.06" y="109.22" size="1.778" layer="96" rot="MR270" display="off"/>
 </instance>
 <instance part="GND51" gate="1" x="607.06" y="88.9" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="609.6" y="86.36" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="607.06" y="88.9" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="LED1" gate="1" x="535.94" y="119.38" smashed="yes">
 <attribute name="NAME" x="539.496" y="114.808" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="541.655" y="114.808" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="535.94" y="119.38" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="535.94" y="119.38" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED2" gate="1" x="571.5" y="119.38" smashed="yes">
 <attribute name="NAME" x="575.056" y="114.808" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="577.215" y="114.808" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="571.5" y="119.38" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="571.5" y="119.38" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND5" gate="1" x="134.62" y="167.64" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="137.16" y="165.1" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="134.62" y="167.64" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="R3" gate="G$1" x="205.74" y="220.98" smashed="yes" rot="MR270">
 <attribute name="NAME" x="204.2414" y="224.79" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="209.042" y="224.79" size="1.778" layer="96" rot="MR270"/>
 <attribute name="MPN" x="205.74" y="220.98" size="1.778" layer="96" rot="MR270" display="off"/>
+<attribute name="DIGKEYPN" x="205.74" y="220.98" size="1.778" layer="96" rot="MR270" display="off"/>
 </instance>
 <instance part="R2" gate="G$1" x="203.2" y="233.68" smashed="yes" rot="MR180">
 <attribute name="NAME" x="199.39" y="232.1814" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="199.39" y="236.982" size="1.778" layer="96" rot="MR180"/>
 <attribute name="MPN" x="203.2" y="233.68" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="203.2" y="233.68" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="GND55" gate="1" x="193.04" y="218.44" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="195.58" y="215.9" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="193.04" y="218.44" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C24" gate="G$1" x="193.04" y="228.6" smashed="yes">
 <attribute name="NAME" x="194.564" y="228.981" size="1.778" layer="95"/>
 <attribute name="VALUE" x="194.564" y="223.901" size="1.778" layer="96"/>
 <attribute name="MPN" x="193.04" y="228.6" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="193.04" y="228.6" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="IC11" gate="G$1" x="177.8" y="228.6" smashed="yes">
 <attribute name="NAME" x="170.18" y="237.49" size="1.778" layer="95"/>
 <attribute name="VALUE" x="170.18" y="218.44" size="1.778" layer="95"/>
 <attribute name="MPN" x="177.8" y="228.6" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="177.8" y="228.6" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND56" gate="1" x="162.56" y="226.06" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="165.1" y="223.52" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="162.56" y="226.06" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C23" gate="G$1" x="144.78" y="228.6" smashed="yes">
 <attribute name="NAME" x="146.304" y="228.981" size="1.778" layer="95"/>
 <attribute name="VALUE" x="146.304" y="223.901" size="1.778" layer="96"/>
 <attribute name="MPN" x="144.78" y="228.6" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="144.78" y="228.6" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND57" gate="1" x="144.78" y="218.44" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="147.32" y="215.9" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="144.78" y="218.44" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="P+3" gate="1" x="154.94" y="241.3" smashed="yes">
 <attribute name="VALUE" x="152.4" y="236.22" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="154.94" y="241.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND86" gate="1" x="467.36" y="439.42" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="469.9" y="436.88" size="1.778" layer="96" rot="MR0"/>
@@ -15975,19 +16482,27 @@ At around 200mA</text>
 <attribute name="NAME" x="468.884" y="449.961" size="1.778" layer="95"/>
 <attribute name="VALUE" x="468.884" y="444.881" size="1.778" layer="96"/>
 <attribute name="MPN" x="467.36" y="449.58" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="467.36" y="449.58" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="467.36" y="449.58" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="IC5" gate="G$1" x="452.12" y="449.58" smashed="yes">
 <attribute name="NAME" x="444.5" y="458.47" size="1.778" layer="95"/>
 <attribute name="VALUE" x="444.5" y="439.42" size="1.778" layer="95"/>
 <attribute name="MPN" x="452.12" y="449.58" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="452.12" y="449.58" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="452.12" y="449.58" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND87" gate="1" x="436.88" y="447.04" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="439.42" y="444.5" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="436.88" y="447.04" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="436.88" y="447.04" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C10" gate="G$1" x="419.1" y="449.58" smashed="yes">
 <attribute name="NAME" x="420.624" y="449.961" size="1.778" layer="95"/>
 <attribute name="VALUE" x="420.624" y="444.881" size="1.778" layer="96"/>
 <attribute name="MPN" x="419.1" y="449.58" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="419.1" y="449.58" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="419.1" y="449.58" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND88" gate="1" x="419.1" y="439.42" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="421.64" y="436.88" size="1.778" layer="96" rot="MR0"/>
@@ -15999,6 +16514,8 @@ At around 200mA</text>
 <attribute name="NAME" x="479.044" y="449.961" size="1.778" layer="95"/>
 <attribute name="VALUE" x="479.044" y="444.881" size="1.778" layer="96"/>
 <attribute name="MPN" x="477.52" y="449.58" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="477.52" y="449.58" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="477.52" y="449.58" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND89" gate="1" x="477.52" y="439.42" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="480.06" y="436.88" size="1.778" layer="96" rot="MR0"/>
@@ -16027,101 +16544,123 @@ At around 200mA</text>
 <attribute name="NAME" x="681.736" y="114.808" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="683.895" y="114.808" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="678.18" y="119.38" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="678.18" y="119.38" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED5" gate="2" x="678.18" y="167.64" smashed="yes">
 <attribute name="NAME" x="681.736" y="163.068" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="683.895" y="163.068" size="1.778" layer="96" rot="R90"/>
 <attribute name="MPN" x="678.18" y="167.64" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="678.18" y="167.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED4" gate="2" x="642.62" y="167.64" smashed="yes">
 <attribute name="NAME" x="646.176" y="163.068" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="648.335" y="163.068" size="1.778" layer="96" rot="R90"/>
 <attribute name="MPN" x="642.62" y="167.64" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="642.62" y="167.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="T7" gate="G$1" x="640.08" y="147.32" smashed="yes">
 <attribute name="NAME" x="629.92" y="154.94" size="1.778" layer="95"/>
 <attribute name="VALUE" x="629.92" y="152.4" size="1.778" layer="96"/>
 <attribute name="MPN" x="640.08" y="147.32" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="640.08" y="147.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R24" gate="G$1" x="632.46" y="147.32" smashed="yes" rot="MR180">
 <attribute name="NAME" x="628.65" y="145.8214" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="628.65" y="150.622" size="1.778" layer="96" rot="MR180"/>
 <attribute name="MPN" x="632.46" y="147.32" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="632.46" y="147.32" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="R36" gate="G$1" x="642.62" y="157.48" smashed="yes" rot="MR270">
 <attribute name="NAME" x="641.1214" y="161.29" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="645.922" y="161.29" size="1.778" layer="96" rot="MR270"/>
 <attribute name="MPN" x="642.62" y="157.48" size="1.778" layer="96" rot="MR270" display="off"/>
+<attribute name="DIGKEYPN" x="642.62" y="157.48" size="1.778" layer="96" rot="MR270" display="off"/>
 </instance>
 <instance part="GND47" gate="1" x="642.62" y="137.16" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="645.16" y="134.62" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="642.62" y="137.16" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="T8" gate="G$1" x="640.08" y="99.06" smashed="yes">
 <attribute name="NAME" x="629.92" y="106.68" size="1.778" layer="95"/>
 <attribute name="VALUE" x="629.92" y="104.14" size="1.778" layer="96"/>
 <attribute name="MPN" x="640.08" y="99.06" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="640.08" y="99.06" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R30" gate="G$1" x="632.46" y="99.06" smashed="yes" rot="MR180">
 <attribute name="NAME" x="628.65" y="97.5614" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="628.65" y="102.362" size="1.778" layer="96" rot="MR180"/>
 <attribute name="MPN" x="632.46" y="99.06" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="632.46" y="99.06" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="R44" gate="G$1" x="642.62" y="109.22" smashed="yes" rot="MR270">
 <attribute name="NAME" x="641.1214" y="113.03" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="645.922" y="113.03" size="1.778" layer="96" rot="MR270"/>
 <attribute name="MPN" x="642.62" y="109.22" size="1.778" layer="96" rot="MR270" display="off"/>
+<attribute name="DIGKEYPN" x="642.62" y="109.22" size="1.778" layer="96" rot="MR270" display="off"/>
 </instance>
 <instance part="GND52" gate="1" x="642.62" y="88.9" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="645.16" y="86.36" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="642.62" y="88.9" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="T9" gate="G$1" x="675.64" y="147.32" smashed="yes">
 <attribute name="NAME" x="665.48" y="154.94" size="1.778" layer="95"/>
 <attribute name="VALUE" x="665.48" y="152.4" size="1.778" layer="96"/>
 <attribute name="MPN" x="675.64" y="147.32" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="675.64" y="147.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R25" gate="G$1" x="668.02" y="147.32" smashed="yes" rot="MR180">
 <attribute name="NAME" x="664.21" y="145.8214" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="664.21" y="150.622" size="1.778" layer="96" rot="MR180"/>
 <attribute name="MPN" x="668.02" y="147.32" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="668.02" y="147.32" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="R37" gate="G$1" x="678.18" y="157.48" smashed="yes" rot="MR270">
 <attribute name="NAME" x="676.6814" y="161.29" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="681.482" y="161.29" size="1.778" layer="96" rot="MR270"/>
 <attribute name="MPN" x="678.18" y="157.48" size="1.778" layer="96" rot="MR270" display="off"/>
+<attribute name="DIGKEYPN" x="678.18" y="157.48" size="1.778" layer="96" rot="MR270" display="off"/>
 </instance>
 <instance part="GND79" gate="1" x="678.18" y="137.16" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="680.72" y="134.62" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="678.18" y="137.16" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="T10" gate="G$1" x="675.64" y="99.06" smashed="yes">
 <attribute name="NAME" x="665.48" y="106.68" size="1.778" layer="95"/>
 <attribute name="VALUE" x="665.48" y="104.14" size="1.778" layer="96"/>
 <attribute name="MPN" x="675.64" y="99.06" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="675.64" y="99.06" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R31" gate="G$1" x="668.02" y="99.06" smashed="yes" rot="MR180">
 <attribute name="NAME" x="664.21" y="97.5614" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="664.21" y="102.362" size="1.778" layer="96" rot="MR180"/>
 <attribute name="MPN" x="668.02" y="99.06" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="668.02" y="99.06" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="R45" gate="G$1" x="678.18" y="109.22" smashed="yes" rot="MR270">
 <attribute name="NAME" x="676.6814" y="113.03" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="681.482" y="113.03" size="1.778" layer="96" rot="MR270"/>
 <attribute name="MPN" x="678.18" y="109.22" size="1.778" layer="96" rot="MR270" display="off"/>
+<attribute name="DIGKEYPN" x="678.18" y="109.22" size="1.778" layer="96" rot="MR270" display="off"/>
 </instance>
 <instance part="GND102" gate="1" x="678.18" y="88.9" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="680.72" y="86.36" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="678.18" y="88.9" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="LED4" gate="1" x="642.62" y="119.38" smashed="yes">
 <attribute name="NAME" x="646.176" y="114.808" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="648.335" y="114.808" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="642.62" y="119.38" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="642.62" y="119.38" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C30" gate="G$1" x="622.3" y="297.18" smashed="yes" rot="MR0">
 <attribute name="NAME" x="628.396" y="297.561" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="628.396" y="292.481" size="1.778" layer="96" rot="MR0"/>
 <attribute name="MPN" x="622.3" y="297.18" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="622.3" y="297.18" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND32" gate="1" x="622.3" y="289.56" smashed="yes">
 <attribute name="VALUE" x="619.76" y="287.02" size="1.778" layer="96"/>
+<attribute name="DIGKEYPN" x="622.3" y="289.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND11" gate="1" x="421.64" y="480.06" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="424.18" y="477.52" size="1.778" layer="96" rot="MR0"/>
@@ -16134,50 +16673,68 @@ At around 200mA</text>
 </instance>
 <instance part="+3V2" gate="G$1" x="157.48" y="406.4" smashed="yes">
 <attribute name="VALUE" x="154.94" y="401.32" size="1.778" layer="96" rot="R90"/>
+<attribute name="MPN" x="157.48" y="406.4" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="157.48" y="406.4" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="+3V5" gate="G$1" x="535.94" y="175.26" smashed="yes">
 <attribute name="VALUE" x="533.4" y="170.18" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="535.94" y="175.26" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="+3V6" gate="G$1" x="535.94" y="127" smashed="yes">
 <attribute name="VALUE" x="533.4" y="121.92" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="535.94" y="127" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="+3V7" gate="G$1" x="571.5" y="127" smashed="yes">
 <attribute name="VALUE" x="568.96" y="121.92" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="571.5" y="127" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="+3V8" gate="G$1" x="571.5" y="175.26" smashed="yes">
 <attribute name="VALUE" x="568.96" y="170.18" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="571.5" y="175.26" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="+3V9" gate="G$1" x="607.06" y="175.26" smashed="yes">
 <attribute name="VALUE" x="604.52" y="170.18" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="607.06" y="175.26" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="+3V10" gate="G$1" x="607.06" y="127" smashed="yes">
 <attribute name="VALUE" x="604.52" y="121.92" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="607.06" y="127" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="+3V11" gate="G$1" x="642.62" y="127" smashed="yes">
 <attribute name="VALUE" x="640.08" y="121.92" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="642.62" y="127" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="+3V12" gate="G$1" x="678.18" y="127" smashed="yes">
 <attribute name="VALUE" x="675.64" y="121.92" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="678.18" y="127" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="+3V13" gate="G$1" x="678.18" y="175.26" smashed="yes">
 <attribute name="VALUE" x="675.64" y="170.18" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="678.18" y="175.26" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="+3V14" gate="G$1" x="642.62" y="175.26" smashed="yes">
 <attribute name="VALUE" x="640.08" y="170.18" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="642.62" y="175.26" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="+3V26" gate="G$1" x="622.3" y="304.8" smashed="yes">
 <attribute name="VALUE" x="629.92" y="307.34" size="1.778" layer="96" rot="R180"/>
+<attribute name="DIGKEYPN" x="622.3" y="304.8" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="+3V42" gate="G$1" x="149.86" y="177.8" smashed="yes">
 <attribute name="VALUE" x="147.32" y="172.72" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="149.86" y="177.8" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R18" gate="G$1" x="162.56" y="406.4" smashed="yes" rot="R270">
 <attribute name="NAME" x="164.0586" y="410.21" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="159.258" y="410.21" size="1.778" layer="96" rot="R270"/>
 <attribute name="MPN" x="162.56" y="406.4" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MPN" x="162.56" y="406.4" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="DIGKEYPN" x="162.56" y="406.4" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
 <instance part="+3V43" gate="G$1" x="162.56" y="416.56" smashed="yes">
 <attribute name="VALUE" x="165.1" y="414.02" size="1.778" layer="96" rot="R90"/>
+<attribute name="MPN" x="162.56" y="416.56" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="162.56" y="416.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND_TP1" gate="G$1" x="434.34" y="424.18" smashed="yes">
 <attribute name="NAME" x="433.07" y="425.45" size="1.778" layer="95"/>
@@ -16199,37 +16756,47 @@ At around 200mA</text>
 <attribute name="VALUE" x="443.23" y="500.38" size="1.778" layer="96" rot="R180"/>
 <attribute name="NAME" x="434.594" y="503.174" size="1.778" layer="95" rot="R180"/>
 <attribute name="MPN" x="439.42" y="490.22" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="DIGKEYPN" x="439.42" y="490.22" size="1.778" layer="96" rot="R180" display="off"/>
 </instance>
 <instance part="IC3" gate="1" x="177.8" y="375.92" smashed="yes">
 <attribute name="NAME" x="167.64" y="402.59" size="1.778" layer="95"/>
 <attribute name="VALUE" x="167.64" y="345.44" size="1.778" layer="96"/>
 <attribute name="MPN" x="177.8" y="375.92" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="177.8" y="375.92" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="177.8" y="375.92" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="IC10" gate="A" x="581.66" y="309.88" smashed="yes" rot="MR180">
 <attribute name="NAME" x="582.168" y="317.627" size="1.778" layer="95" rot="MR180"/>
 <attribute name="MPN" x="581.66" y="309.88" size="1.778" layer="96" rot="MR180" display="off"/>
 <attribute name="MPN" x="581.66" y="309.88" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="581.66" y="309.88" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="IC10" gate="P" x="601.98" y="299.72" smashed="yes" rot="R270">
 <attribute name="NAME" x="605.155" y="302.895" size="1.778" layer="95" rot="R180"/>
+<attribute name="DIGKEYPN" x="601.98" y="299.72" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
 <instance part="GND96" gate="1" x="591.82" y="294.64" smashed="yes">
 <attribute name="VALUE" x="589.28" y="292.1" size="1.778" layer="96"/>
+<attribute name="DIGKEYPN" x="591.82" y="294.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND94" gate="1" x="581.66" y="299.72" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="584.2" y="297.18" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="581.66" y="299.72" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="+3V35" gate="G$1" x="612.14" y="304.8" smashed="yes">
 <attribute name="VALUE" x="617.22" y="307.34" size="1.778" layer="96" rot="R180"/>
+<attribute name="DIGKEYPN" x="612.14" y="304.8" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R16" gate="G$1" x="561.34" y="299.72" smashed="yes" rot="MR270">
 <attribute name="NAME" x="559.8414" y="303.53" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="564.642" y="303.53" size="1.778" layer="96" rot="MR270"/>
 <attribute name="MPN" x="561.34" y="299.72" size="1.778" layer="96" rot="MR270" display="off"/>
 <attribute name="MPN" x="561.34" y="299.72" size="1.778" layer="96" rot="MR270" display="off"/>
+<attribute name="DIGKEYPN" x="561.34" y="299.72" size="1.778" layer="96" rot="MR270" display="off"/>
 </instance>
 <instance part="GND46" gate="1" x="561.34" y="292.1" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="563.88" y="289.56" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="561.34" y="292.1" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="+3V3_TP" gate="G$1" x="457.2" y="424.18" smashed="yes">
 <attribute name="NAME" x="455.93" y="425.45" size="1.778" layer="95"/>
@@ -16248,227 +16815,293 @@ At around 200mA</text>
 <attribute name="VALUE" x="477.52" y="429.26" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="IC18" gate="A" x="63.5" y="182.88" smashed="yes" rot="MR180">
-<attribute name="NAME" x="65.913" y="185.928" size="1.778" layer="95" rot="MR90"/>
+<attribute name="NAME" x="70.612" y="187.833" size="1.778" layer="95" rot="MR0"/>
 <attribute name="MPN" x="63.5" y="182.88" size="1.778" layer="96" rot="MR180" display="off"/>
 <attribute name="MPN" x="63.5" y="182.88" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="63.5" y="182.88" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="IC19" gate="A" x="63.5" y="124.46" smashed="yes" rot="MR180">
 <attribute name="NAME" x="64.008" y="132.207" size="1.778" layer="95" rot="MR180"/>
 <attribute name="MPN" x="63.5" y="124.46" size="1.778" layer="96" rot="MR180" display="off"/>
 <attribute name="MPN" x="63.5" y="124.46" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="63.5" y="124.46" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="IC19" gate="P" x="73.66" y="53.34" smashed="yes">
 <attribute name="NAME" x="73.025" y="52.705" size="1.778" layer="95"/>
+<attribute name="DIGKEYPN" x="73.66" y="53.34" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="IC18" gate="P" x="60.96" y="53.34" smashed="yes">
 <attribute name="NAME" x="60.325" y="52.705" size="1.778" layer="95"/>
+<attribute name="DIGKEYPN" x="60.96" y="53.34" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C35" gate="G$1" x="35.56" y="53.34" smashed="yes">
 <attribute name="NAME" x="29.464" y="53.721" size="1.778" layer="95"/>
 <attribute name="VALUE" x="29.464" y="48.641" size="1.778" layer="96"/>
 <attribute name="MPN" x="35.56" y="53.34" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="35.56" y="53.34" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND63" gate="1" x="35.56" y="43.18" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="38.1" y="40.64" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="35.56" y="43.18" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="+3V20" gate="G$1" x="35.56" y="63.5" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="40.64" y="63.5" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="35.56" y="63.5" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C36" gate="G$1" x="48.26" y="53.34" smashed="yes">
 <attribute name="NAME" x="42.164" y="53.721" size="1.778" layer="95"/>
 <attribute name="VALUE" x="42.164" y="48.641" size="1.778" layer="96"/>
 <attribute name="MPN" x="48.26" y="53.34" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="48.26" y="53.34" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND66" gate="1" x="48.26" y="43.18" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="50.8" y="40.64" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="48.26" y="43.18" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="+3V22" gate="G$1" x="48.26" y="63.5" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="53.34" y="63.5" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="48.26" y="63.5" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="+3V25" gate="G$1" x="60.96" y="63.5" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="66.04" y="63.5" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="60.96" y="63.5" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="+3V27" gate="G$1" x="73.66" y="63.5" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="81.28" y="63.5" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="73.66" y="63.5" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND67" gate="1" x="60.96" y="43.18" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="63.5" y="40.64" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="60.96" y="43.18" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND69" gate="1" x="73.66" y="43.18" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="76.2" y="40.64" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="73.66" y="43.18" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="R54" gate="G$1" x="63.5" y="165.1" smashed="yes" rot="R270">
 <attribute name="NAME" x="64.9986" y="168.91" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="60.198" y="168.91" size="1.778" layer="96" rot="R270"/>
 <attribute name="MPN" x="63.5" y="165.1" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="DIGKEYPN" x="63.5" y="165.1" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
 <instance part="GND70" gate="1" x="63.5" y="157.48" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="66.04" y="154.94" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="63.5" y="157.48" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="R55" gate="G$1" x="58.42" y="104.14" smashed="yes" rot="R90">
 <attribute name="NAME" x="56.9214" y="100.33" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="61.722" y="100.33" size="1.778" layer="96" rot="R90"/>
 <attribute name="MPN" x="58.42" y="104.14" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="DIGKEYPN" x="58.42" y="104.14" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="+3V29" gate="G$1" x="58.42" y="114.3" smashed="yes">
 <attribute name="VALUE" x="58.42" y="116.84" size="1.778" layer="96" rot="R180"/>
+<attribute name="DIGKEYPN" x="58.42" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND3" gate="1" x="152.4" y="111.76" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="154.94" y="109.22" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="152.4" y="111.76" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="CLKOUT1" gate="G$1" x="223.52" y="129.54" smashed="yes" rot="MR0">
 <attribute name="NAME" x="231.14" y="136.144" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="226.06" y="123.444" size="1.778" layer="96" rot="MR0" display="off"/>
 <attribute name="MPN" x="223.52" y="129.54" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="223.52" y="129.54" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C1" gate="G$1" x="142.24" y="134.62" smashed="yes" rot="MR90">
 <attribute name="NAME" x="142.621" y="136.144" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="137.541" y="136.144" size="1.778" layer="96" rot="MR90"/>
 <attribute name="MPN" x="142.24" y="134.62" size="1.778" layer="96" rot="MR90" display="off"/>
+<attribute name="DIGKEYPN" x="142.24" y="134.62" size="1.778" layer="96" rot="MR90" display="off"/>
 </instance>
 <instance part="C13" gate="G$1" x="210.82" y="127" smashed="yes" rot="MR0">
 <attribute name="NAME" x="209.296" y="127.381" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="209.296" y="122.301" size="1.778" layer="96" rot="MR0"/>
 <attribute name="MPN" x="210.82" y="127" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="210.82" y="127" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND8" gate="1" x="134.62" y="132.08" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="137.16" y="129.54" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="134.62" y="132.08" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="+3V15" gate="G$1" x="149.86" y="142.24" smashed="yes">
 <attribute name="VALUE" x="147.32" y="137.16" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="149.86" y="142.24" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND10" gate="1" x="152.4" y="76.2" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="154.94" y="73.66" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="152.4" y="76.2" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="CLKOUT2" gate="G$1" x="223.52" y="93.98" smashed="yes" rot="MR0">
 <attribute name="NAME" x="231.14" y="100.584" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="226.06" y="87.884" size="1.778" layer="96" rot="MR0" display="off"/>
 <attribute name="MPN" x="223.52" y="93.98" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="223.52" y="93.98" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C14" gate="G$1" x="142.24" y="99.06" smashed="yes" rot="MR90">
 <attribute name="NAME" x="142.621" y="100.584" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="137.541" y="100.584" size="1.778" layer="96" rot="MR90"/>
 <attribute name="MPN" x="142.24" y="99.06" size="1.778" layer="96" rot="MR90" display="off"/>
+<attribute name="DIGKEYPN" x="142.24" y="99.06" size="1.778" layer="96" rot="MR90" display="off"/>
 </instance>
 <instance part="C15" gate="G$1" x="210.82" y="91.44" smashed="yes" rot="MR0">
 <attribute name="NAME" x="209.296" y="91.821" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="209.296" y="86.741" size="1.778" layer="96" rot="MR0"/>
 <attribute name="MPN" x="210.82" y="91.44" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="210.82" y="91.44" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND12" gate="1" x="134.62" y="96.52" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="137.16" y="93.98" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="134.62" y="96.52" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="+3V16" gate="G$1" x="149.86" y="106.68" smashed="yes">
 <attribute name="VALUE" x="147.32" y="101.6" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="149.86" y="106.68" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND13" gate="1" x="152.4" y="40.64" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="154.94" y="38.1" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="152.4" y="40.64" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="CLKOUT3" gate="G$1" x="223.52" y="58.42" smashed="yes" rot="MR0">
 <attribute name="NAME" x="231.14" y="65.024" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="226.06" y="52.324" size="1.778" layer="96" rot="MR0" display="off"/>
 <attribute name="MPN" x="223.52" y="58.42" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="223.52" y="58.42" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C16" gate="G$1" x="142.24" y="63.5" smashed="yes" rot="MR90">
 <attribute name="NAME" x="142.621" y="65.024" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="137.541" y="65.024" size="1.778" layer="96" rot="MR90"/>
 <attribute name="MPN" x="142.24" y="63.5" size="1.778" layer="96" rot="MR90" display="off"/>
+<attribute name="DIGKEYPN" x="142.24" y="63.5" size="1.778" layer="96" rot="MR90" display="off"/>
 </instance>
 <instance part="C17" gate="G$1" x="210.82" y="55.88" smashed="yes" rot="MR0">
 <attribute name="NAME" x="209.296" y="56.261" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="209.296" y="51.181" size="1.778" layer="96" rot="MR0"/>
 <attribute name="MPN" x="210.82" y="55.88" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="210.82" y="55.88" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND15" gate="1" x="134.62" y="60.96" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="137.16" y="58.42" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="134.62" y="60.96" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="+3V17" gate="G$1" x="149.86" y="71.12" smashed="yes">
 <attribute name="VALUE" x="147.32" y="66.04" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="149.86" y="71.12" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND16" gate="1" x="269.24" y="147.32" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="271.78" y="144.78" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="269.24" y="147.32" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="CLKOUT4" gate="G$1" x="340.36" y="165.1" smashed="yes" rot="MR0">
 <attribute name="NAME" x="347.98" y="171.704" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="342.9" y="159.004" size="1.778" layer="96" rot="MR0" display="off"/>
 <attribute name="MPN" x="340.36" y="165.1" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="340.36" y="165.1" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C18" gate="G$1" x="259.08" y="170.18" smashed="yes" rot="MR90">
 <attribute name="NAME" x="259.461" y="171.704" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="254.381" y="171.704" size="1.778" layer="96" rot="MR90"/>
 <attribute name="MPN" x="259.08" y="170.18" size="1.778" layer="96" rot="MR90" display="off"/>
+<attribute name="DIGKEYPN" x="259.08" y="170.18" size="1.778" layer="96" rot="MR90" display="off"/>
 </instance>
 <instance part="C19" gate="G$1" x="327.66" y="162.56" smashed="yes" rot="MR0">
 <attribute name="NAME" x="326.136" y="162.941" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="326.136" y="157.861" size="1.778" layer="96" rot="MR0"/>
 <attribute name="MPN" x="327.66" y="162.56" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="327.66" y="162.56" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND17" gate="1" x="251.46" y="167.64" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="254" y="165.1" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="251.46" y="167.64" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="+3V18" gate="G$1" x="266.7" y="177.8" smashed="yes">
 <attribute name="VALUE" x="264.16" y="172.72" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="266.7" y="177.8" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND18" gate="1" x="269.24" y="111.76" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="271.78" y="109.22" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="269.24" y="111.76" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="CLKOUT5" gate="G$1" x="340.36" y="129.54" smashed="yes" rot="MR0">
 <attribute name="NAME" x="347.98" y="136.144" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="342.9" y="123.444" size="1.778" layer="96" rot="MR0" display="off"/>
 <attribute name="MPN" x="340.36" y="129.54" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="340.36" y="129.54" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C20" gate="G$1" x="259.08" y="134.62" smashed="yes" rot="MR90">
 <attribute name="NAME" x="259.461" y="136.144" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="254.381" y="136.144" size="1.778" layer="96" rot="MR90"/>
 <attribute name="MPN" x="259.08" y="134.62" size="1.778" layer="96" rot="MR90" display="off"/>
+<attribute name="DIGKEYPN" x="259.08" y="134.62" size="1.778" layer="96" rot="MR90" display="off"/>
 </instance>
 <instance part="C21" gate="G$1" x="327.66" y="127" smashed="yes" rot="MR0">
 <attribute name="NAME" x="326.136" y="127.381" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="326.136" y="122.301" size="1.778" layer="96" rot="MR0"/>
 <attribute name="MPN" x="327.66" y="127" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="327.66" y="127" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND19" gate="1" x="251.46" y="132.08" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="254" y="129.54" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="251.46" y="132.08" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="+3V21" gate="G$1" x="266.7" y="142.24" smashed="yes">
 <attribute name="VALUE" x="264.16" y="137.16" size="1.778" layer="96" rot="R90"/>
+<attribute name="DIGKEYPN" x="266.7" y="142.24" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND20" gate="1" x="231.14" y="383.54" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="233.68" y="381" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="231.14" y="383.54" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="231.14" y="383.54" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="IC6" gate="G$1" x="640.08" y="452.12" smashed="yes">
 <attribute name="NAME" x="614.68" y="496.57" size="1.9304" layer="95" ratio="5"/>
 <attribute name="VALUE" x="614.68" y="405.13" size="1.9304" layer="96" ratio="5"/>
+<attribute name="MPN" x="640.08" y="452.12" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="640.08" y="452.12" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C22" gate="G$1" x="690.88" y="421.64" smashed="yes" rot="MR0">
 <attribute name="NAME" x="689.356" y="422.021" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="689.356" y="416.941" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="690.88" y="421.64" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="690.88" y="421.64" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C27" gate="G$1" x="701.04" y="421.64" smashed="yes" rot="MR0">
 <attribute name="NAME" x="699.516" y="422.021" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="699.516" y="416.941" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="701.04" y="421.64" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="701.04" y="421.64" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C28" gate="G$1" x="711.2" y="421.64" smashed="yes" rot="MR0">
 <attribute name="NAME" x="709.676" y="422.021" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="709.676" y="416.941" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="711.2" y="421.64" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="711.2" y="421.64" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C29" gate="G$1" x="723.9" y="421.64" smashed="yes" rot="MR0">
 <attribute name="NAME" x="722.376" y="422.021" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="722.376" y="416.941" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="723.9" y="421.64" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="723.9" y="421.64" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="OSC1" gate="G$1" x="584.2" y="401.32" smashed="yes">
 <attribute name="VALUE" x="594.36" y="398.78" size="1.778" layer="96"/>
 <attribute name="NAME" x="581.152" y="404.622" size="1.778" layer="95"/>
+<attribute name="DIGKEYPN" x="584.2" y="401.32" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="584.2" y="401.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND59" gate="1" x="589.28" y="391.16" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="591.82" y="388.62" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="589.28" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="C32" gate="G$1" x="568.96" y="401.32" smashed="yes" rot="MR0">
 <attribute name="NAME" x="567.436" y="401.701" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="567.436" y="396.621" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="568.96" y="401.32" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="568.96" y="401.32" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND60" gate="1" x="568.96" y="391.16" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="571.5" y="388.62" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="568.96" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND21" gate="1" x="675.64" y="401.32" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="678.18" y="398.78" size="1.778" layer="96" rot="MR0"/>
@@ -16491,63 +17124,101 @@ At around 200mA</text>
 <instance part="PDI" gate="1" x="741.68" y="472.44" smashed="yes" rot="MR180">
 <attribute name="VALUE" x="737.87" y="480.06" size="1.778" layer="96" rot="MR180"/>
 <attribute name="NAME" x="737.87" y="466.598" size="1.778" layer="95" rot="MR180"/>
+<attribute name="DIGKEYPN" x="741.68" y="472.44" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="CLKIN" gate="G$1" x="218.44" y="210.82" smashed="yes" rot="MR0">
 <attribute name="NAME" x="226.06" y="217.424" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="220.98" y="204.724" size="1.778" layer="96" rot="MR0" display="off"/>
 <attribute name="MPN" x="218.44" y="210.82" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="218.44" y="210.82" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="Q2" gate="G$1" x="251.46" y="414.02" smashed="yes" rot="MR0">
 <attribute name="NAME" x="254" y="419.1" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="264.16" y="406.4" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="251.46" y="414.02" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="251.46" y="414.02" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="251.46" y="414.02" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="251.46" y="414.02" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="Q1" gate="G$1" x="231.14" y="421.64" smashed="yes" rot="R180">
 <attribute name="NAME" x="236.22" y="424.18" size="1.778" layer="95"/>
 <attribute name="VALUE" x="224.282" y="415.544" size="1.778" layer="96"/>
+<attribute name="MPN" x="231.14" y="421.64" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="DIGKEYPN" x="231.14" y="421.64" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="MPN" x="231.14" y="421.64" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="DIGKEYPN" x="231.14" y="421.64" size="1.778" layer="96" rot="R180" display="off"/>
 </instance>
 <instance part="GND29" gate="1" x="248.92" y="403.86" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="246.38" y="403.86" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="248.92" y="403.86" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="248.92" y="403.86" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="R6" gate="G$1" x="261.62" y="414.02" smashed="yes" rot="R180">
 <attribute name="NAME" x="265.43" y="412.5214" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="265.43" y="417.322" size="1.778" layer="96" rot="R180"/>
 <attribute name="MPN" x="261.62" y="414.02" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="MPN" x="261.62" y="414.02" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="DIGKEYPN" x="261.62" y="414.02" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="MPN" x="261.62" y="414.02" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="DIGKEYPN" x="261.62" y="414.02" size="1.778" layer="96" rot="R180" display="off"/>
 </instance>
 <instance part="R7" gate="G$1" x="241.3" y="429.26" smashed="yes" rot="R270">
 <attribute name="NAME" x="242.7986" y="433.07" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="237.998" y="433.07" size="1.778" layer="96" rot="R270"/>
 <attribute name="MPN" x="241.3" y="429.26" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MPN" x="241.3" y="429.26" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="DIGKEYPN" x="241.3" y="429.26" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MPN" x="241.3" y="429.26" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="DIGKEYPN" x="241.3" y="429.26" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
 <instance part="BAT_TP" gate="G$1" x="325.12" y="462.28" smashed="yes">
 <attribute name="NAME" x="323.85" y="463.55" size="1.778" layer="95"/>
 <attribute name="TP_SIGNAL_NAME" x="326.39" y="461.01" size="1.778" layer="97"/>
+<attribute name="MPN" x="325.12" y="462.28" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="325.12" y="462.28" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R8" gate="G$1" x="195.58" y="459.74" smashed="yes">
 <attribute name="NAME" x="191.77" y="461.2386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="191.77" y="456.438" size="1.778" layer="96"/>
 <attribute name="MPN" x="195.58" y="459.74" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="195.58" y="459.74" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="195.58" y="459.74" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="195.58" y="459.74" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND41" gate="1" x="304.8" y="386.08" smashed="yes">
 <attribute name="VALUE" x="302.26" y="383.54" size="1.778" layer="96"/>
+<attribute name="MPN" x="304.8" y="386.08" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="304.8" y="386.08" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R4" gate="G$1" x="231.14" y="406.4" smashed="yes" rot="R270">
 <attribute name="NAME" x="232.6386" y="410.21" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="227.838" y="410.21" size="1.778" layer="96" rot="R270"/>
 <attribute name="MPN" x="231.14" y="406.4" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MPN" x="231.14" y="406.4" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="DIGKEYPN" x="231.14" y="406.4" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MPN" x="231.14" y="406.4" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="DIGKEYPN" x="231.14" y="406.4" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
 <instance part="R5" gate="G$1" x="231.14" y="391.16" smashed="yes" rot="R270">
 <attribute name="NAME" x="232.6386" y="394.97" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="227.838" y="394.97" size="1.778" layer="96" rot="R270"/>
 <attribute name="MPN" x="231.14" y="391.16" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MPN" x="231.14" y="391.16" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="DIGKEYPN" x="231.14" y="391.16" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MPN" x="231.14" y="391.16" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="DIGKEYPN" x="231.14" y="391.16" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
 <instance part="BUTTON" gate="G$1" x="701.04" y="320.04" smashed="yes" rot="R180">
 <attribute name="NAME" x="701.04" y="326.39" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="701.04" y="328.93" size="1.778" layer="96" rot="R180"/>
+<attribute name="MPN" x="701.04" y="320.04" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="DIGKEYPN" x="701.04" y="320.04" size="1.778" layer="96" rot="R180" display="off"/>
 </instance>
 <instance part="C62" gate="G$1" x="718.82" y="314.96" smashed="yes" rot="MR0">
 <attribute name="NAME" x="717.296" y="315.341" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="717.296" y="310.261" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="718.82" y="314.96" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="718.82" y="314.96" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND45" gate="1" x="718.82" y="304.8" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="721.36" y="302.26" size="1.778" layer="96" rot="MR0"/>
@@ -16558,207 +17229,296 @@ At around 200mA</text>
 <instance part="R9" gate="G$1" x="711.2" y="320.04" smashed="yes" rot="MR180">
 <attribute name="NAME" x="707.39" y="318.5414" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="707.39" y="323.342" size="1.778" layer="96" rot="MR180"/>
+<attribute name="MPN" x="711.2" y="320.04" size="1.778" layer="96" rot="MR180" display="off"/>
+<attribute name="DIGKEYPN" x="711.2" y="320.04" size="1.778" layer="96" rot="MR180" display="off"/>
 </instance>
 <instance part="R48" gate="G$1" x="718.82" y="327.66" smashed="yes" rot="MR90">
 <attribute name="NAME" x="720.3186" y="323.85" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="715.518" y="323.85" size="1.778" layer="96" rot="MR90"/>
+<attribute name="MPN" x="718.82" y="327.66" size="1.778" layer="96" rot="MR90" display="off"/>
+<attribute name="DIGKEYPN" x="718.82" y="327.66" size="1.778" layer="96" rot="MR90" display="off"/>
 </instance>
 <instance part="IC9" gate="A" x="467.36" y="309.88" smashed="yes" rot="MR0">
 <attribute name="NAME" x="464.82" y="313.055" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="464.82" y="304.8" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="467.36" y="309.88" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="467.36" y="309.88" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="R10" gate="G$1" x="449.58" y="309.88" smashed="yes">
 <attribute name="NAME" x="452.12" y="311.3786" size="1.778" layer="95"/>
 <attribute name="VALUE" x="445.77" y="310.896" size="1.778" layer="96"/>
 <attribute name="MPN" x="449.58" y="309.88" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="449.58" y="309.88" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="449.58" y="309.88" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C31" gate="G$1" x="505.46" y="297.18" smashed="yes" rot="MR0">
 <attribute name="NAME" x="511.556" y="297.561" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="511.556" y="292.481" size="1.778" layer="96" rot="MR0"/>
 <attribute name="MPN" x="505.46" y="297.18" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="505.46" y="297.18" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND6" gate="1" x="505.46" y="289.56" smashed="yes">
 <attribute name="VALUE" x="502.92" y="287.02" size="1.778" layer="96"/>
+<attribute name="DIGKEYPN" x="505.46" y="289.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND7" gate="1" x="474.98" y="294.64" smashed="yes">
 <attribute name="VALUE" x="472.44" y="292.1" size="1.778" layer="96"/>
+<attribute name="DIGKEYPN" x="474.98" y="294.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="IC9" gate="P" x="485.14" y="299.72" smashed="yes" rot="MR90">
 <attribute name="NAME" x="484.505" y="299.085" size="1.778" layer="95" rot="MR90"/>
+<attribute name="DIGKEYPN" x="485.14" y="299.72" size="1.778" layer="96" rot="MR90" display="off"/>
 </instance>
 <instance part="P+2" gate="1" x="505.46" y="304.8" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="510.54" y="304.8" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="505.46" y="304.8" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="P+4" gate="1" x="495.3" y="304.8" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="500.38" y="304.8" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="495.3" y="304.8" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="IC8" gate="A" x="467.36" y="345.44" smashed="yes" rot="MR0">
 <attribute name="NAME" x="464.82" y="348.615" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="464.82" y="340.36" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="467.36" y="345.44" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="467.36" y="345.44" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="R12" gate="G$1" x="452.12" y="345.44" smashed="yes">
 <attribute name="NAME" x="454.66" y="346.9386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="448.31" y="346.456" size="1.778" layer="96"/>
 <attribute name="MPN" x="452.12" y="345.44" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="452.12" y="345.44" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="452.12" y="345.44" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C38" gate="G$1" x="508" y="332.74" smashed="yes" rot="MR0">
 <attribute name="NAME" x="514.096" y="333.121" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="514.096" y="328.041" size="1.778" layer="96" rot="MR0"/>
 <attribute name="MPN" x="508" y="332.74" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="508" y="332.74" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND62" gate="1" x="508" y="325.12" smashed="yes">
 <attribute name="VALUE" x="505.46" y="322.58" size="1.778" layer="96"/>
+<attribute name="DIGKEYPN" x="508" y="325.12" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND64" gate="1" x="477.52" y="330.2" smashed="yes">
 <attribute name="VALUE" x="474.98" y="327.66" size="1.778" layer="96"/>
+<attribute name="DIGKEYPN" x="477.52" y="330.2" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="IC8" gate="P" x="487.68" y="335.28" smashed="yes" rot="MR90">
 <attribute name="NAME" x="487.045" y="334.645" size="1.778" layer="95" rot="MR90"/>
+<attribute name="DIGKEYPN" x="487.68" y="335.28" size="1.778" layer="96" rot="MR90" display="off"/>
 </instance>
 <instance part="P+6" gate="1" x="508" y="340.36" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="513.08" y="340.36" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="508" y="340.36" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="P+7" gate="1" x="497.84" y="340.36" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="502.92" y="340.36" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="497.84" y="340.36" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="IC7" gate="A" x="467.36" y="378.46" smashed="yes" rot="MR0">
 <attribute name="NAME" x="464.82" y="381.635" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="467.36" y="370.84" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="467.36" y="378.46" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="467.36" y="378.46" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="R11" gate="G$1" x="454.66" y="378.46" smashed="yes">
 <attribute name="NAME" x="457.2" y="379.9586" size="1.778" layer="95"/>
 <attribute name="VALUE" x="450.85" y="379.476" size="1.778" layer="96"/>
 <attribute name="MPN" x="454.66" y="378.46" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="454.66" y="378.46" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="454.66" y="378.46" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C37" gate="G$1" x="510.54" y="365.76" smashed="yes" rot="MR0">
 <attribute name="NAME" x="516.636" y="366.141" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="516.636" y="361.061" size="1.778" layer="96" rot="MR0"/>
 <attribute name="MPN" x="510.54" y="365.76" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="510.54" y="365.76" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="GND22" gate="1" x="510.54" y="358.14" smashed="yes">
 <attribute name="VALUE" x="508" y="355.6" size="1.778" layer="96"/>
+<attribute name="DIGKEYPN" x="510.54" y="358.14" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND23" gate="1" x="480.06" y="363.22" smashed="yes">
 <attribute name="VALUE" x="477.52" y="360.68" size="1.778" layer="96"/>
+<attribute name="DIGKEYPN" x="480.06" y="363.22" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="IC7" gate="P" x="490.22" y="368.3" smashed="yes" rot="MR90">
 <attribute name="NAME" x="489.585" y="367.665" size="1.778" layer="95" rot="MR90"/>
+<attribute name="DIGKEYPN" x="490.22" y="368.3" size="1.778" layer="96" rot="MR90" display="off"/>
 </instance>
 <instance part="P+8" gate="1" x="510.54" y="373.38" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="515.62" y="373.38" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="510.54" y="373.38" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="P+9" gate="1" x="500.38" y="373.38" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="505.46" y="373.38" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="500.38" y="373.38" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="X1" gate="-2" x="340.36" y="447.04" smashed="yes">
 <attribute name="NAME" x="342.9" y="446.278" size="1.524" layer="95"/>
+<attribute name="MPN" x="340.36" y="447.04" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="340.36" y="447.04" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="340.36" y="447.04" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="340.36" y="447.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="X1" gate="-1" x="340.36" y="444.5" smashed="yes">
 <attribute name="NAME" x="342.9" y="443.738" size="1.524" layer="95"/>
 <attribute name="VALUE" x="329.438" y="448.437" size="1.27" layer="96"/>
+<attribute name="MPN" x="340.36" y="444.5" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="340.36" y="444.5" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="340.36" y="444.5" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="340.36" y="444.5" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND54" gate="1" x="335.28" y="439.42" smashed="yes">
 <attribute name="VALUE" x="332.74" y="436.88" size="1.778" layer="96"/>
+<attribute name="MPN" x="335.28" y="439.42" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="335.28" y="439.42" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="IC1" gate="G$1" x="170.18" y="452.12" smashed="yes">
 <attribute name="NAME" x="160.02" y="464.82" size="1.778" layer="95"/>
 <attribute name="VALUE" x="160.02" y="439.42" size="1.778" layer="96"/>
 <attribute name="MPN" x="170.18" y="452.12" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="170.18" y="452.12" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="170.18" y="452.12" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="170.18" y="452.12" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND26" gate="1" x="187.96" y="436.88" smashed="yes">
 <attribute name="VALUE" x="185.42" y="434.34" size="1.778" layer="96"/>
+<attribute name="MPN" x="187.96" y="436.88" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="187.96" y="436.88" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R13" gate="G$1" x="193.04" y="447.04" smashed="yes" rot="R90">
 <attribute name="NAME" x="191.5414" y="443.23" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="197.866" y="444.5" size="1.778" layer="96" rot="R180"/>
 <attribute name="MPN" x="193.04" y="447.04" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="DIGKEYPN" x="193.04" y="447.04" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MPN" x="193.04" y="447.04" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="DIGKEYPN" x="193.04" y="447.04" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="IC4" gate="G$1" x="264.16" y="472.44" smashed="yes">
 <attribute name="NAME" x="254" y="485.14" size="1.778" layer="95"/>
 <attribute name="VALUE" x="266.7" y="459.74" size="1.778" layer="96"/>
+<attribute name="MPN" x="264.16" y="472.44" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="264.16" y="472.44" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="264.16" y="472.44" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="264.16" y="472.44" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND68" gate="1" x="248.92" y="459.74" smashed="yes">
 <attribute name="VALUE" x="246.38" y="457.2" size="1.778" layer="96"/>
+<attribute name="MPN" x="248.92" y="459.74" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="248.92" y="459.74" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="Q3" gate="G$1" x="307.34" y="398.78" smashed="yes" rot="MR0">
 <attribute name="NAME" x="317.5" y="406.4" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="317.5" y="403.86" size="1.778" layer="96" rot="MR0"/>
+<attribute name="MPN" x="307.34" y="398.78" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="307.34" y="398.78" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="307.34" y="398.78" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="307.34" y="398.78" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="R14" gate="G$1" x="320.04" y="398.78" smashed="yes" rot="R180">
 <attribute name="NAME" x="323.85" y="397.2814" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="323.85" y="402.082" size="1.778" layer="96" rot="R180"/>
 <attribute name="MPN" x="320.04" y="398.78" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="MPN" x="320.04" y="398.78" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="DIGKEYPN" x="320.04" y="398.78" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="MPN" x="320.04" y="398.78" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="DIGKEYPN" x="320.04" y="398.78" size="1.778" layer="96" rot="R180" display="off"/>
 </instance>
 <instance part="R15" gate="G$1" x="304.8" y="414.02" smashed="yes" rot="R270">
 <attribute name="NAME" x="306.2986" y="417.83" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="301.498" y="417.83" size="1.778" layer="96" rot="R270"/>
 <attribute name="MPN" x="304.8" y="414.02" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MPN" x="304.8" y="414.02" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="DIGKEYPN" x="304.8" y="414.02" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MPN" x="304.8" y="414.02" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="DIGKEYPN" x="304.8" y="414.02" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
 <instance part="CLKOUT0" gate="G$1" x="226.06" y="165.1" smashed="yes" rot="MR0">
 <attribute name="NAME" x="233.68" y="171.704" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="228.6" y="159.004" size="1.778" layer="96" rot="MR0" display="off"/>
 <attribute name="MPN" x="226.06" y="165.1" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="DIGKEYPN" x="226.06" y="165.1" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="IC12" gate="G$1" x="175.26" y="162.56" smashed="yes">
 <attribute name="NAME" x="162.56" y="173.99" size="1.778" layer="95"/>
 <attribute name="VALUE" x="162.56" y="147.32" size="1.778" layer="95"/>
 <attribute name="MPN" x="175.26" y="162.56" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="175.26" y="162.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="IC13" gate="G$1" x="175.26" y="127" smashed="yes">
 <attribute name="NAME" x="162.56" y="138.43" size="1.778" layer="95"/>
 <attribute name="VALUE" x="162.56" y="111.76" size="1.778" layer="95"/>
 <attribute name="MPN" x="175.26" y="127" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="175.26" y="127" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="IC14" gate="G$1" x="175.26" y="91.44" smashed="yes">
 <attribute name="NAME" x="162.56" y="102.87" size="1.778" layer="95"/>
 <attribute name="VALUE" x="162.56" y="76.2" size="1.778" layer="95"/>
 <attribute name="MPN" x="175.26" y="91.44" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="175.26" y="91.44" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="IC15" gate="G$1" x="175.26" y="55.88" smashed="yes">
 <attribute name="NAME" x="162.56" y="67.31" size="1.778" layer="95"/>
 <attribute name="VALUE" x="162.56" y="40.64" size="1.778" layer="95"/>
 <attribute name="MPN" x="175.26" y="55.88" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="175.26" y="55.88" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="IC16" gate="G$1" x="292.1" y="162.56" smashed="yes">
 <attribute name="NAME" x="279.4" y="173.99" size="1.778" layer="95"/>
 <attribute name="VALUE" x="279.4" y="147.32" size="1.778" layer="95"/>
 <attribute name="MPN" x="292.1" y="162.56" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="292.1" y="162.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="IC17" gate="G$1" x="292.1" y="127" smashed="yes">
 <attribute name="NAME" x="279.4" y="138.43" size="1.778" layer="95"/>
 <attribute name="VALUE" x="279.4" y="111.76" size="1.778" layer="95"/>
 <attribute name="MPN" x="292.1" y="127" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="292.1" y="127" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND28" gate="1" x="144.78" y="421.64" smashed="yes">
 <attribute name="VALUE" x="142.24" y="419.1" size="1.778" layer="96"/>
+<attribute name="MPN" x="144.78" y="421.64" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="144.78" y="421.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R17" gate="G$1" x="137.16" y="452.12" smashed="yes" rot="R90">
 <attribute name="NAME" x="135.6614" y="448.31" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="141.986" y="449.58" size="1.778" layer="96" rot="R180"/>
 <attribute name="MPN" x="137.16" y="452.12" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="DIGKEYPN" x="137.16" y="452.12" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MPN" x="137.16" y="452.12" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="DIGKEYPN" x="137.16" y="452.12" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="R19" gate="G$1" x="134.62" y="431.8" smashed="yes" rot="R90">
 <attribute name="NAME" x="133.1214" y="427.99" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="139.446" y="429.26" size="1.778" layer="96" rot="R180"/>
 <attribute name="MPN" x="134.62" y="431.8" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="DIGKEYPN" x="134.62" y="431.8" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MPN" x="134.62" y="431.8" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="DIGKEYPN" x="134.62" y="431.8" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="Q5" gate="G$1" x="144.78" y="459.74" smashed="yes" rot="MR90">
 <attribute name="NAME" x="147.32" y="464.82" size="1.778" layer="95" rot="MR90"/>
-<attribute name="VALUE" x="144.78" y="464.82" size="1.778" layer="96" rot="MR90"/>
+<attribute name="VALUE" x="147.32" y="464.82" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="144.78" y="459.74" size="1.778" layer="96" rot="MR90" display="off"/>
+<attribute name="MPN" x="144.78" y="459.74" size="1.778" layer="96" rot="MR90" display="off"/>
+<attribute name="DIGKEYPN" x="144.78" y="459.74" size="1.778" layer="96" rot="MR90" display="off"/>
 </instance>
 <instance part="Q4" gate="G$1" x="144.78" y="439.42" smashed="yes">
 <attribute name="NAME" x="149.86" y="441.96" size="1.778" layer="95"/>
-<attribute name="VALUE" x="149.86" y="439.42" size="1.778" layer="96"/>
+<attribute name="VALUE" x="146.558" y="434.594" size="1.778" layer="96"/>
+<attribute name="DIGKEYPN" x="144.78" y="439.42" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="144.78" y="439.42" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="144.78" y="439.42" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="F1" gate="G$1" x="711.2" y="444.5" smashed="yes" rot="R90">
-<attribute name="NAME" x="709.8284" y="440.69" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="714.121" y="440.69" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="717.55" y="450.7484" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="737.87" y="447.421" size="1.778" layer="96" rot="R180"/>
+<attribute name="DIGKEYPN" x="711.2" y="444.5" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="VDD1" gate="G$1" x="690.88" y="449.58" smashed="yes">
-<attribute name="VALUE" x="688.34" y="447.04" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="688.34" y="452.12" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="VDD2" gate="G$1" x="731.52" y="482.6" smashed="yes">
 <attribute name="VALUE" x="728.98" y="480.06" size="1.778" layer="96" rot="R90"/>
@@ -16776,6 +17536,8 @@ At around 200mA</text>
 <attribute name="NAME" x="491.744" y="449.961" size="1.778" layer="95"/>
 <attribute name="VALUE" x="491.744" y="444.881" size="1.778" layer="96"/>
 <attribute name="MPN" x="490.22" y="449.58" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="490.22" y="449.58" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="490.22" y="449.58" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND61" gate="1" x="490.22" y="436.88" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="492.76" y="434.34" size="1.778" layer="96" rot="MR0"/>
@@ -16784,18 +17546,25 @@ At around 200mA</text>
 <attribute name="NAME" x="410.464" y="449.961" size="1.778" layer="95"/>
 <attribute name="VALUE" x="410.464" y="444.881" size="1.778" layer="96"/>
 <attribute name="MPN" x="408.94" y="449.58" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="408.94" y="449.58" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="408.94" y="449.58" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND71" gate="1" x="408.94" y="436.88" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="411.48" y="434.34" size="1.778" layer="96" rot="MR0"/>
 </instance>
 <instance part="P+10" gate="1" x="467.36" y="320.04" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="467.36" y="320.04" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="467.36" y="320.04" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="467.36" y="320.04" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="P+11" gate="1" x="467.36" y="358.14" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="467.36" y="358.14" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="467.36" y="358.14" size="1.778" layer="96" rot="MR0" display="off"/>
+<attribute name="MPN" x="467.36" y="358.14" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="P+12" gate="1" x="467.36" y="391.16" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="467.36" y="391.16" size="1.778" layer="96" rot="MR0"/>
+<attribute name="DIGKEYPN" x="467.36" y="391.16" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 </instances>
 <busses>
@@ -18823,6 +19592,28 @@ At around 200mA</text>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="202,1,193.04,383.54,IC3,!DCD,,,,"/>
+<approved hash="202,1,193.04,386.08,IC3,!DSR,,,,"/>
+<approved hash="202,1,193.04,381,IC3,!RI,,,,"/>
+<approved hash="202,1,165.1,386.08,IC3,OSCI,,,,"/>
+<approved hash="104,1,165.1,398.78,IC3,VCC,+5_USB,,,"/>
+<approved hash="104,1,165.1,396.24,IC3,VCCIO,+3V3,,,"/>
+<approved hash="104,1,609.6,299.72,IC10P,VCC,+3V3,,,"/>
+<approved hash="104,1,60.96,60.96,IC18P,VCC,+3V3,,,"/>
+<approved hash="104,1,73.66,60.96,IC19P,VCC,+3V3,,,"/>
+<approved hash="104,1,670.56,444.5,IC6,AVCC,VDD,,,"/>
+<approved hash="104,1,670.56,436.88,IC6,VCC,VDD,,,"/>
+<approved hash="104,1,670.56,434.34,IC6,VCC,VDD,,,"/>
+<approved hash="104,1,670.56,431.8,IC6,VCC,VDD,,,"/>
+<approved hash="104,1,492.76,299.72,IC9P,VCC,+5V,,,"/>
+<approved hash="104,1,495.3,335.28,IC8P,VCC,+5V,,,"/>
+<approved hash="104,1,497.84,368.3,IC7P,VCC,+5V,,,"/>
+<approved hash="113,1,589.336,130.071,FRAME3,,,,,"/>
+<approved hash="113,1,589.336,394.231,FRAME5,,,,,"/>
+<approved hash="113,1,198.176,394.231,FRAME6,,,,,"/>
+<approved hash="113,1,198.176,130.071,FRAME7,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>
