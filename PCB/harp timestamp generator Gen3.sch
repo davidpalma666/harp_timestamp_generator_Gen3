@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.2">
+<eagle version="9.5.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -15965,7 +15965,7 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <attribute name="DIGKEYPN" value="541-3959-1-ND"/>
 <attribute name="MPN" value="CRCW040210K0FKEDC"/>
 </part>
-<part name="R15" library="rcl" deviceset="R-EU_" device="R2512" value="25R">
+<part name="R15" library="rcl" deviceset="R-EU_" device="R2512" value="15R">
 <attribute name="DIGKEYPN" value="541-2662-1-ND"/>
 <attribute name="MPN" value="RCP2512W25R0GEB"/>
 </part>
