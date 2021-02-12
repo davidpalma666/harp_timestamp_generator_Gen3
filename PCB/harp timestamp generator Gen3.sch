@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.1">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -15184,12 +15184,12 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
 <part name="C4" library="rcl" deviceset="C-EU" device="C0402" value="47pF">
-<attribute name="DIGKEYPN" value="478-1171-1-ND"/>
-<attribute name="MPN" value="06035A470JAT2A"/>
+<attribute name="DIGKEYPN" value="478-1078-1-ND"/>
+<attribute name="MPN" value="04025A470JAT2A"/>
 </part>
 <part name="C6" library="rcl" deviceset="C-EU" device="C0402" value="47pF">
-<attribute name="DIGKEYPN" value="478-1171-1-ND"/>
-<attribute name="MPN" value="06035A470JAT2A"/>
+<attribute name="DIGKEYPN" value="478-1078-1-ND"/>
+<attribute name="MPN" value="04025A470JAT2A"/>
 </part>
 <part name="L1" library="rcl" deviceset="R-EU_" device="R0805" value="40R@100MHz">
 <attribute name="DIGKEYPN" value="240-2389-1-ND"/>
@@ -15273,7 +15273,7 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </part>
 <part name="R21" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
 <attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
-<attribute name="MPN" value="CRCW04021K00FKED"/>
+<attribute name="MPN" value="CRCW04021K00FKEDHP"/>
 </part>
 <part name="R33" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
 <attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
@@ -15288,7 +15288,7 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </part>
 <part name="R27" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
 <attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
-<attribute name="MPN" value="CRCW04021K00FKED"/>
+<attribute name="MPN" value="CRCW04021K00FKEDHP"/>
 </part>
 <part name="R40" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
 <attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
@@ -15303,7 +15303,7 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </part>
 <part name="R22" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
 <attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
-<attribute name="MPN" value="CRCW04021K00FKED"/>
+<attribute name="MPN" value="CRCW04021K00FKEDHP"/>
 </part>
 <part name="R34" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
 <attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
@@ -15318,7 +15318,7 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </part>
 <part name="R28" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
 <attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
-<attribute name="MPN" value="CRCW04021K00FKED"/>
+<attribute name="MPN" value="CRCW04021K00FKEDHP"/>
 </part>
 <part name="R41" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
 <attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
@@ -15333,7 +15333,7 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </part>
 <part name="R23" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
 <attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
-<attribute name="MPN" value="CRCW04021K00FKED"/>
+<attribute name="MPN" value="CRCW04021K00FKEDHP"/>
 </part>
 <part name="R35" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
 <attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
@@ -15348,7 +15348,7 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </part>
 <part name="R29" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
 <attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
-<attribute name="MPN" value="CRCW04021K00FKED"/>
+<attribute name="MPN" value="CRCW04021K00FKEDHP"/>
 </part>
 <part name="R42" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
 <attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
@@ -15372,8 +15372,8 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <attribute name="DIGKEYPN" value=""/>
 </part>
 <part name="C24" library="rcl" deviceset="C-EU" device="C0603" value="4.7uF">
-<attribute name="DIGKEYPN" value="541-10.0YCT-ND"/>
-<attribute name="MPN" value="CRCW040210R0FKEDHP"/>
+<attribute name="DIGKEYPN" value="587-2786-1-ND"/>
+<attribute name="MPN" value="EMK107ABJ475KA-T"/>
 </part>
 <part name="IC11" library="harp timestamp generator" deviceset="TLV700XX" device="" value="TLV70033DDCR">
 <attribute name="DIGKEYPN" value="296-27937-6-ND"/>
@@ -15383,8 +15383,8 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <attribute name="DIGKEYPN" value=""/>
 </part>
 <part name="C23" library="rcl" deviceset="C-EU" device="C0603" value="4.7uF">
-<attribute name="DIGKEYPN" value="541-10.0YCT-ND"/>
-<attribute name="MPN" value="CRCW040210R0FKEDHP"/>
+<attribute name="DIGKEYPN" value="587-2786-1-ND"/>
+<attribute name="MPN" value="EMK107ABJ475KA-T"/>
 </part>
 <part name="GND57" library="supply1" deviceset="GND" device="">
 <attribute name="DIGKEYPN" value=""/>
@@ -15394,8 +15394,8 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </part>
 <part name="GND86" library="supply1" deviceset="GND" device=""/>
 <part name="C11" library="rcl" deviceset="C-EU" device="C0603" value="4.7uF">
-<attribute name="DIGKEYPN" value="541-10.0YCT-ND"/>
-<attribute name="MPN" value="CRCW040210R0FKEDHP"/>
+<attribute name="DIGKEYPN" value="587-2786-1-ND"/>
+<attribute name="MPN" value="EMK107ABJ475KA-T"/>
 </part>
 <part name="IC5" library="harp timestamp generator" deviceset="TLV700XX" device="" value="TLV70033DDCR">
 <attribute name="DIGKEYPN" value="296-27937-6-ND"/>
@@ -15406,8 +15406,8 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <attribute name="MPN" value=""/>
 </part>
 <part name="C10" library="rcl" deviceset="C-EU" device="C0603" value="4.7uF">
-<attribute name="DIGKEYPN" value="541-10.0YCT-ND"/>
-<attribute name="MPN" value="CRCW040210R0FKEDHP"/>
+<attribute name="DIGKEYPN" value="587-2786-1-ND"/>
+<attribute name="MPN" value="EMK107ABJ475KA-T"/>
 </part>
 <part name="GND88" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+40" library="supply1" deviceset="+5V" device=""/>
@@ -15434,7 +15434,7 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </part>
 <part name="R24" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
 <attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
-<attribute name="MPN" value="CRCW04021K00FKED"/>
+<attribute name="MPN" value="CRCW04021K00FKEDHP"/>
 </part>
 <part name="R36" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
 <attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
@@ -15449,7 +15449,7 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </part>
 <part name="R30" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
 <attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
-<attribute name="MPN" value="CRCW04021K00FKED"/>
+<attribute name="MPN" value="CRCW04021K00FKEDHP"/>
 </part>
 <part name="R44" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
 <attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
@@ -15464,7 +15464,7 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </part>
 <part name="R25" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
 <attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
-<attribute name="MPN" value="CRCW04021K00FKED"/>
+<attribute name="MPN" value="CRCW04021K00FKEDHP"/>
 </part>
 <part name="R37" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
 <attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
@@ -15479,7 +15479,7 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </part>
 <part name="R31" library="rcl" deviceset="R-EU_" device="R0402" value="1k">
 <attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
-<attribute name="MPN" value="CRCW04021K00FKED"/>
+<attribute name="MPN" value="CRCW04021K00FKEDHP"/>
 </part>
 <part name="R45" library="rcl" deviceset="R-EU_" device="R0402" value="330R">
 <attribute name="DIGKEYPN" value="311-330LRCT-ND"/>
@@ -15631,15 +15631,15 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <attribute name="DIGKEYPN" value=""/>
 </part>
 <part name="R54" library="rcl" deviceset="R-EU_" device="R0402" value="10k">
-<attribute name="DIGKEYPN" value="541-3959-1-ND"/>
-<attribute name="MPN" value="CRCW040210K0FKED"/>
+<attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
+<attribute name="MPN" value="CRCW04021K00FKEDHP"/>
 </part>
 <part name="GND70" library="supply1" deviceset="GND" device="">
 <attribute name="DIGKEYPN" value=""/>
 </part>
 <part name="R55" library="rcl" deviceset="R-EU_" device="R0402" value="10k">
-<attribute name="DIGKEYPN" value="541-3959-1-ND"/>
-<attribute name="MPN" value="CRCW040210K0FKED"/>
+<attribute name="DIGKEYPN" value="541-1.00KYCT-ND"/>
+<attribute name="MPN" value="CRCW04021K00FKEDHP"/>
 </part>
 <part name="+3V29" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device="">
 <attribute name="DIGKEYPN" value=""/>
@@ -15770,8 +15770,8 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
 </part>
 <part name="C29" library="rcl" deviceset="C-EU" device="C0402" value="330nF">
-<attribute name="DIGKEYPN" value="445-6899-2-ND"/>
-<attribute name="MPN" value="CGA2B3X7R1H104K050BB"/>
+<attribute name="DIGKEYPN" value="490-3263-1-ND"/>
+<attribute name="MPN" value="GRM155R61A334KE15D"/>
 </part>
 <part name="OSC1" library="harp timestamp generator" deviceset="OSCILLATOR" device="" value="OSCILLATOR">
 <attribute name="DIGKEYPN" value="1908-1044-1-ND"/>
@@ -15814,8 +15814,8 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <attribute name="MPN" value=""/>
 </part>
 <part name="R6" library="rcl" deviceset="R-EU_" device="R0402" value="100k">
-<attribute name="DIGKEYPN" value="311-100KHRCT-ND"/>
-<attribute name="MPN" value="RC0603FR-07100KL"/>
+<attribute name="DIGKEYPN" value="P15984CT-ND"/>
+<attribute name="MPN" value="ERJ-2RHD1002X"/>
 </part>
 <part name="R7" library="rcl" deviceset="R-EU_" device="R0402" value="10k">
 <attribute name="DIGKEYPN" value="541-3959-1-ND"/>
@@ -15825,8 +15825,8 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <attribute name="MPN" value="n.a."/>
 </part>
 <part name="R8" library="rcl" deviceset="R-EU_" device="R0402" value="0">
-<attribute name="DIGKEYPN" value="311-0.0HRCT-ND"/>
-<attribute name="MPN" value="RC0603FR-070RL"/>
+<attribute name="DIGKEYPN" value="RMCF0402ZT0R00CT-ND"/>
+<attribute name="MPN" value="RMCF0402ZT0R00"/>
 </part>
 <part name="GND41" library="supply1" deviceset="GND" device="">
 <attribute name="DIGKEYPN" value=""/>
@@ -15855,8 +15855,8 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <attribute name="MPN" value="CRCW040210K0FKEDC"/>
 </part>
 <part name="R48" library="rcl" deviceset="R-EU_" device="R0402" value="100k">
-<attribute name="DIGKEYPN" value="311-100KHRCT-ND"/>
-<attribute name="MPN" value="RC0603FR-07100KL"/>
+<attribute name="DIGKEYPN" value="P15984CT-ND"/>
+<attribute name="MPN" value="ERJ-2RHD1002X"/>
 </part>
 <part name="IC9" library="74xx-little-de" deviceset="74*1G126" device="DCK" technology="AHC" value="M74VHC1GT126DF1G">
 <attribute name="DIGKEYPN" value="M74VHC1GT126DF1GOSCT-ND"/>
