@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.2">
+<eagle version="9.5.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -17355,20 +17355,20 @@ At around 200mA</text>
 <attribute name="VALUE" x="505.46" y="373.38" size="1.778" layer="96" rot="MR0"/>
 <attribute name="DIGKEYPN" x="500.38" y="373.38" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
-<instance part="X1" gate="-2" x="340.36" y="447.04" smashed="yes">
-<attribute name="NAME" x="342.9" y="446.278" size="1.524" layer="95"/>
-<attribute name="MPN" x="340.36" y="447.04" size="1.778" layer="96" display="off"/>
-<attribute name="DIGKEYPN" x="340.36" y="447.04" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="340.36" y="447.04" size="1.778" layer="96" display="off"/>
-<attribute name="DIGKEYPN" x="340.36" y="447.04" size="1.778" layer="96" display="off"/>
-</instance>
-<instance part="X1" gate="-1" x="340.36" y="444.5" smashed="yes">
+<instance part="X1" gate="-2" x="340.36" y="444.5" smashed="yes">
 <attribute name="NAME" x="342.9" y="443.738" size="1.524" layer="95"/>
+<attribute name="MPN" x="340.36" y="444.5" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="340.36" y="444.5" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="340.36" y="444.5" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="340.36" y="444.5" size="1.778" layer="96" display="off"/>
+</instance>
+<instance part="X1" gate="-1" x="340.36" y="447.04" smashed="yes">
+<attribute name="NAME" x="342.9" y="446.278" size="1.524" layer="95"/>
 <attribute name="VALUE" x="329.438" y="448.437" size="1.27" layer="96"/>
-<attribute name="MPN" x="340.36" y="444.5" size="1.778" layer="96" display="off"/>
-<attribute name="DIGKEYPN" x="340.36" y="444.5" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="340.36" y="444.5" size="1.778" layer="96" display="off"/>
-<attribute name="DIGKEYPN" x="340.36" y="444.5" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="340.36" y="447.04" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="340.36" y="447.04" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="340.36" y="447.04" size="1.778" layer="96" display="off"/>
+<attribute name="DIGKEYPN" x="340.36" y="447.04" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND54" gate="1" x="335.28" y="439.42" smashed="yes">
 <attribute name="VALUE" x="332.74" y="436.88" size="1.778" layer="96"/>
@@ -17968,10 +17968,10 @@ At around 200mA</text>
 <pinref part="IC7" gate="P" pin="GND"/>
 </segment>
 <segment>
-<pinref part="X1" gate="-1" pin="S"/>
-<wire x1="337.82" y1="444.5" x2="335.28" y2="444.5" width="0.1524" layer="91"/>
 <pinref part="GND54" gate="1" pin="GND"/>
 <wire x1="335.28" y1="444.5" x2="335.28" y2="441.96" width="0.1524" layer="91"/>
+<pinref part="X1" gate="-2" pin="S"/>
+<wire x1="337.82" y1="444.5" x2="335.28" y2="444.5" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND26" gate="1" pin="GND"/>
@@ -19461,7 +19461,6 @@ At around 200mA</text>
 </net>
 <net name="V_BATT" class="0">
 <segment>
-<pinref part="X1" gate="-2" pin="S"/>
 <wire x1="200.66" y1="459.74" x2="231.14" y2="459.74" width="0.1524" layer="91"/>
 <wire x1="231.14" y1="459.74" x2="231.14" y2="472.44" width="0.1524" layer="91"/>
 <wire x1="231.14" y1="472.44" x2="248.92" y2="472.44" width="0.1524" layer="91"/>
@@ -19488,6 +19487,7 @@ At around 200mA</text>
 <wire x1="325.12" y1="459.74" x2="325.12" y2="447.04" width="0.1524" layer="91"/>
 <junction x="325.12" y="447.04"/>
 <label x="236.22" y="447.04" size="2.54" layer="95"/>
+<pinref part="X1" gate="-1" pin="S"/>
 </segment>
 </net>
 <net name="N$16" class="0">
